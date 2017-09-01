@@ -1,4 +1,4 @@
-package org.vivoweb.combine.webapp;
+package combine.plugin.crossref.webapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

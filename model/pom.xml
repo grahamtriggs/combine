@@ -3,16 +3,23 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.vivoweb.combine</groupId>
+	<groupId>combine</groupId>
 	<artifactId>model</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+    </dependencies>
+    <packaging>jar</packaging>
 
 	<name>model</name>
-	<description>VIVO Combine Plugin API</description>
+	<description>Combine Plugin API</description>
 
 	<parent>
-		<groupId>org.vivoweb.combine</groupId>
+		<groupId>combine</groupId>
 		<artifactId>combine-project</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>..</relativePath>

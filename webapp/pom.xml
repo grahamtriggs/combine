@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>org.vivoweb.combine</groupId>
+	<groupId>combine</groupId>
 	<artifactId>webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
@@ -12,7 +12,7 @@
 	<description>Combine WebApp</description>
 
 	<parent>
-		<groupId>org.vivoweb.combine</groupId>
+		<groupId>combine</groupId>
 		<artifactId>combine-project</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>..</relativePath>

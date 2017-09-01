@@ -1,4 +1,4 @@
-package org.vivoweb.combine.webapp;
+package combine.webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
