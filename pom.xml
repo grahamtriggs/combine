@@ -10,6 +10,9 @@
 
 	<name>combine-project</name>
 	<description>Combine</description>
+	<!--
+	Semiotic viz: https://emeeks.github.io/semiotic/#/semiotic/examples
+	-->
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

@@ -1,0 +1,219 @@
+{
+  "DOI": "10.1016/j.neuroimage.2016.03.027",
+  "ISSN": [
+    "1053-8119"
+  ],
+  "URL": "http://dx.doi.org/10.1016/j.neuroimage.2016.03.027",
+  "alternative-id": [
+    "S1053811916002329"
+  ],
+  "assertion": [
+    {
+      "label": "This article is maintained by",
+      "name": "publisher",
+      "value": "Elsevier"
+    },
+    {
+      "label": "Article Title",
+      "name": "articletitle",
+      "value": "Visual information representation and rapid-scene categorization are simultaneous across cortex: An MEG study"
+    },
+    {
+      "label": "Journal Title",
+      "name": "journaltitle",
+      "value": "NeuroImage"
+    },
+    {
+      "label": "CrossRef DOI link to publisher maintained version",
+      "name": "articlelink",
+      "value": "http://dx.doi.org/10.1016/j.neuroimage.2016.03.027"
+    },
+    {
+      "label": "Content Type",
+      "name": "content_type",
+      "value": "article"
+    },
+    {
+      "label": "Copyright",
+      "name": "copyright",
+      "value": "\u00a9 2016 Elsevier Inc. All rights reserved."
+    }
+  ],
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Ramkumar",
+      "given": "Pavan"
+    },
+    {
+      "affiliation": [],
+      "family": "Hansen",
+      "given": "Bruce C."
+    },
+    {
+      "affiliation": [],
+      "family": "Pannasch",
+      "given": "Sebastian"
+    },
+    {
+      "ORCID": "http://orcid.org/0000-0003-4678-0666",
+      "affiliation": [],
+      "authenticated-orcid": false,
+      "family": "Loschky",
+      "given": "Lester C."
+    }
+  ],
+  "container-title": "NeuroImage",
+  "container-title-short": "NeuroImage",
+  "content-domain": {
+    "crossmark-restriction": true,
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ]
+  },
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        3,
+        19
+      ]
+    ],
+    "date-time": "2016-03-19T02:48:40Z",
+    "timestamp": 1458355720000
+  },
+  "deposited": {
+    "date-parts": [
+      [
+        2017,
+        5,
+        28
+      ]
+    ],
+    "date-time": "2017-05-28T13:03:51Z",
+    "timestamp": 1495976631000
+  },
+  "funder": [
+    {
+      "DOI": "10.13039/100000006",
+      "award": [
+        "10846128"
+      ],
+      "doi-asserted-by": "publisher",
+      "name": "Office of Naval Research"
+    },
+    {
+      "award": [
+        "232946"
+      ],
+      "name": "Finnish Graduate School of Neuroscience, and European Research Council"
+    },
+    {
+      "award": [
+        "220020430"
+      ],
+      "name": "Colgate Research Council"
+    },
+    {
+      "award": [],
+      "name": "PEOPLE-2009-IEF"
+    }
+  ],
+  "indexed": {
+    "date-parts": [
+      [
+        2017,
+        8,
+        9
+      ]
+    ],
+    "date-time": "2017-08-09T05:07:31Z",
+    "timestamp": 1502255251858
+  },
+  "is-referenced-by-count": 1,
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        7
+      ]
+    ]
+  },
+  "license": [
+    {
+      "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "start": {
+        "date-parts": [
+          [
+            2016,
+            7,
+            1
+          ]
+        ],
+        "date-time": "2016-07-01T00:00:00Z",
+        "timestamp": 1467331200000
+      }
+    },
+    {
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "content-version": "am",
+      "delay-in-days": 295,
+      "start": {
+        "date-parts": [
+          [
+            2017,
+            4,
+            22
+          ]
+        ],
+        "date-time": "2017-04-22T00:00:00Z",
+        "timestamp": 1492819200000
+      }
+    }
+  ],
+  "link": [
+    {
+      "URL": "http://api.elsevier.com/content/article/PII:S1053811916002329?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://api.elsevier.com/content/article/PII:S1053811916002329?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "member": "78",
+  "original-title": [],
+  "page": "295-304",
+  "prefix": "10.1016",
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        7
+      ]
+    ]
+  },
+  "publisher": "Elsevier BV",
+  "reference-count": 67,
+  "references-count": 67,
+  "relation": {},
+  "score": 1.0,
+  "short-title": [],
+  "source": "Crossref",
+  "subject": [
+    "Cognitive Neuroscience",
+    "Neurology"
+  ],
+  "subtitle": [],
+  "title": "Visual information representation and rapid-scene categorization are simultaneous across cortex: An MEG study",
+  "type": "article-journal",
+  "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+  "volume": "134"
+}

@@ -1,0 +1,634 @@
+{
+  "DOI": "10.1038/nature23664",
+  "ISSN": [
+    "0028-0836",
+    "1476-4687"
+  ],
+  "URL": "http://dx.doi.org/10.1038/nature23664",
+  "alternative-id": [
+    "nature23664"
+  ],
+  "author": [
+    {
+      "affiliation": [],
+      "family": "Kikuchi",
+      "given": "Tetsuhiro"
+    },
+    {
+      "affiliation": [],
+      "family": "Morizane",
+      "given": "Asuka"
+    },
+    {
+      "affiliation": [],
+      "family": "Doi",
+      "given": "Daisuke"
+    },
+    {
+      "affiliation": [],
+      "family": "Magotani",
+      "given": "Hiroaki"
+    },
+    {
+      "affiliation": [],
+      "family": "Onoe",
+      "given": "Hirotaka"
+    },
+    {
+      "affiliation": [],
+      "family": "Hayashi",
+      "given": "Takuya"
+    },
+    {
+      "affiliation": [],
+      "family": "Mizuma",
+      "given": "Hiroshi"
+    },
+    {
+      "affiliation": [],
+      "family": "Takara",
+      "given": "Sayuki"
+    },
+    {
+      "affiliation": [],
+      "family": "Takahashi",
+      "given": "Ryosuke"
+    },
+    {
+      "affiliation": [],
+      "family": "Inoue",
+      "given": "Haruhisa"
+    },
+    {
+      "affiliation": [],
+      "family": "Morita",
+      "given": "Satoshi"
+    },
+    {
+      "affiliation": [],
+      "family": "Yamamoto",
+      "given": "Michio"
+    },
+    {
+      "affiliation": [],
+      "family": "Okita",
+      "given": "Keisuke"
+    },
+    {
+      "affiliation": [],
+      "family": "Nakagawa",
+      "given": "Masato"
+    },
+    {
+      "affiliation": [],
+      "family": "Parmar",
+      "given": "Malin"
+    },
+    {
+      "affiliation": [],
+      "family": "Takahashi",
+      "given": "Jun"
+    }
+  ],
+  "container-title": "Nature",
+  "container-title-short": "Nature",
+  "content-domain": {
+    "crossmark-restriction": false,
+    "domain": []
+  },
+  "created": {
+    "date-parts": [
+      [
+        2017,
+        8,
+        29
+      ]
+    ],
+    "date-time": "2017-08-29T16:08:18Z",
+    "timestamp": 1504022898000
+  },
+  "deposited": {
+    "date-parts": [
+      [
+        2017,
+        8,
+        31
+      ]
+    ],
+    "date-time": "2017-08-31T11:28:07Z",
+    "timestamp": 1504178887000
+  },
+  "indexed": {
+    "date-parts": [
+      [
+        2017,
+        8,
+        31
+      ]
+    ],
+    "date-time": "2017-08-31T12:10:29Z",
+    "timestamp": 1504181429207
+  },
+  "is-referenced-by-count": 0,
+  "issue": "7669",
+  "issued": {
+    "date-parts": [
+      [
+        2017,
+        8,
+        30
+      ]
+    ]
+  },
+  "link": [
+    {
+      "URL": "http://www.nature.com/doifinder/10.1038/nature23664",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "member": "339",
+  "original-title": [],
+  "page": "592-596",
+  "prefix": "10.1038",
+  "published-online": {
+    "date-parts": [
+      [
+        2017,
+        8,
+        30
+      ]
+    ]
+  },
+  "publisher": "Springer Nature",
+  "reference": [
+    {
+      "author": "Kriks S.",
+      "first-page": "547",
+      "journal-title": "Nature",
+      "key": "nature23664-b1",
+      "volume": "480",
+      "year": "2011"
+    },
+    {
+      "DOI": "10.1016/j.stemcr.2014.01.013",
+      "author": "Doi D.",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "journal-title": "Stem Cell Reports",
+      "key": "nature23664-b2",
+      "volume": "2",
+      "year": "2014"
+    },
+    {
+      "DOI": "10.1073/pnas.0404700101",
+      "author": "Perrier A. L.",
+      "doi-asserted-by": "crossref",
+      "first-page": "12543",
+      "journal-title": "Proc. Natl Acad. Sci. USA",
+      "key": "nature23664-b3",
+      "volume": "101",
+      "year": "2004"
+    },
+    {
+      "DOI": "10.1038/nbt.1529",
+      "author": "Chambers S. M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "275",
+      "journal-title": "Nat. Biotechnol.",
+      "key": "nature23664-b4",
+      "volume": "27",
+      "year": "2009"
+    },
+    {
+      "DOI": "10.1016/j.celrep.2012.04.009",
+      "author": "Kirkeby A.",
+      "doi-asserted-by": "crossref",
+      "first-page": "703",
+      "journal-title": "Cell Reports",
+      "key": "nature23664-b5",
+      "volume": "1",
+      "year": "2012"
+    },
+    {
+      "DOI": "10.1002/stem.1060",
+      "author": "Doi D.",
+      "doi-asserted-by": "crossref",
+      "first-page": "935",
+      "journal-title": "Stem Cells",
+      "key": "nature23664-b6",
+      "volume": "30",
+      "year": "2012"
+    },
+    {
+      "DOI": "10.1073/pnas.1010209107",
+      "author": "Hargus G.",
+      "doi-asserted-by": "crossref",
+      "first-page": "15921",
+      "journal-title": "Proc. Natl Acad. Sci. USA",
+      "key": "nature23664-b7",
+      "volume": "107",
+      "year": "2010"
+    },
+    {
+      "DOI": "10.1016/j.stem.2011.01.013",
+      "author": "Nguyen H. N.",
+      "doi-asserted-by": "crossref",
+      "first-page": "267",
+      "journal-title": "Cell Stem Cell",
+      "key": "nature23664-b8",
+      "volume": "8",
+      "year": "2011"
+    },
+    {
+      "DOI": "10.1002/emmm.201200215",
+      "author": "S\u00e1nchez-Dan\u00e9s A.",
+      "doi-asserted-by": "crossref",
+      "first-page": "380",
+      "journal-title": "EMBO Mol. Med.",
+      "key": "nature23664-b9",
+      "volume": "4",
+      "year": "2012"
+    },
+    {
+      "DOI": "10.1002/jnr.24014",
+      "author": "Kikuchi T.",
+      "doi-asserted-by": "crossref",
+      "first-page": "1829",
+      "journal-title": "J. Neurosci. Res.",
+      "key": "nature23664-b10",
+      "volume": "95",
+      "year": "2017"
+    },
+    {
+      "DOI": "10.1242/dev.02879",
+      "author": "Ono Y.",
+      "doi-asserted-by": "crossref",
+      "first-page": "3213",
+      "journal-title": "Development",
+      "key": "nature23664-b11",
+      "volume": "134",
+      "year": "2007"
+    },
+    {
+      "DOI": "10.1038/nn.2243",
+      "author": "Joksimovic M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "125",
+      "journal-title": "Nat. Neurosci.",
+      "key": "nature23664-b12",
+      "volume": "12",
+      "year": "2009"
+    },
+    {
+      "DOI": "10.1073/pnas.94.24.13305",
+      "author": "Smidt M. P.",
+      "doi-asserted-by": "crossref",
+      "first-page": "13305",
+      "journal-title": "Proc. Natl Acad. Sci. USA",
+      "key": "nature23664-b13",
+      "volume": "94",
+      "year": "1997"
+    },
+    {
+      "DOI": "10.1089/scd.2015.0394",
+      "author": "Katsukawa M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "815",
+      "journal-title": "Stem Cells Dev.",
+      "key": "nature23664-b14",
+      "volume": "25",
+      "year": "2016"
+    },
+    {
+      "DOI": "10.1016/S0165-0270(99)00184-3",
+      "author": "Imbert C.",
+      "doi-asserted-by": "crossref",
+      "first-page": "71",
+      "journal-title": "J. Neurosci. Methods",
+      "key": "nature23664-b15",
+      "volume": "96",
+      "year": "2000"
+    },
+    {
+      "author": "Kikuchi T.",
+      "first-page": "395",
+      "journal-title": "J. Parkinsons Dis.",
+      "key": "nature23664-b16",
+      "volume": "1",
+      "year": "2011"
+    },
+    {
+      "DOI": "10.1172/JCI21137",
+      "author": "Takagi Y.",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "journal-title": "J. Clin. Invest.",
+      "key": "nature23664-b17",
+      "volume": "115",
+      "year": "2005"
+    },
+    {
+      "DOI": "10.1016/j.stem.2015.01.018",
+      "author": "Hallett P. J.",
+      "doi-asserted-by": "crossref",
+      "first-page": "269",
+      "journal-title": "Cell Stem Cell",
+      "key": "nature23664-b18",
+      "volume": "16",
+      "year": "2015"
+    },
+    {
+      "DOI": "10.1056/NEJM200103083441002",
+      "author": "Freed C. R.",
+      "doi-asserted-by": "crossref",
+      "first-page": "710",
+      "journal-title": "N. Engl. J. Med.",
+      "key": "nature23664-b19",
+      "volume": "344",
+      "year": "2001"
+    },
+    {
+      "DOI": "10.1002/ana.10720",
+      "author": "Olanow C. W.",
+      "doi-asserted-by": "crossref",
+      "first-page": "403",
+      "journal-title": "Ann. Neurol.",
+      "key": "nature23664-b20",
+      "volume": "54",
+      "year": "2003"
+    },
+    {
+      "author": "Kurowska Z.",
+      "first-page": "83",
+      "journal-title": "J. Parkinsons Dis.",
+      "key": "nature23664-b21",
+      "volume": "1",
+      "year": "2011"
+    },
+    {
+      "DOI": "10.1073/pnas.1605245113",
+      "author": "Li W.",
+      "doi-asserted-by": "crossref",
+      "first-page": "6544",
+      "journal-title": "Proc. Natl Acad. Sci. USA",
+      "key": "nature23664-b22",
+      "volume": "113",
+      "year": "2016"
+    },
+    {
+      "DOI": "10.1016/j.jneumeth.2008.08.027",
+      "author": "Yin D.",
+      "doi-asserted-by": "crossref",
+      "first-page": "200",
+      "journal-title": "J. Neurosci. Methods",
+      "key": "nature23664-b23",
+      "volume": "176",
+      "year": "2009"
+    },
+    {
+      "DOI": "10.1016/j.nbd.2007.08.008",
+      "author": "Redmond D. E.",
+      "doi-asserted-by": "crossref",
+      "first-page": "103",
+      "journal-title": "Neurobiol. Dis.",
+      "key": "nature23664-b24",
+      "volume": "29",
+      "year": "2008"
+    },
+    {
+      "author": "Turkheimer F. E.",
+      "first-page": "158",
+      "journal-title": "J. Nucl. Med.",
+      "key": "nature23664-b25",
+      "volume": "48",
+      "year": "2007"
+    },
+    {
+      "DOI": "10.2967/jnumed.110.084046",
+      "author": "Shukuri M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "1094",
+      "journal-title": "J. Nucl. Med.",
+      "key": "nature23664-b26",
+      "volume": "52",
+      "year": "2011"
+    },
+    {
+      "DOI": "10.1016/j.stem.2016.09.004",
+      "author": "Kirkeby A.",
+      "doi-asserted-by": "crossref",
+      "first-page": "135",
+      "journal-title": "Cell Stem Cell",
+      "key": "nature23664-b27",
+      "volume": "20",
+      "year": "2017"
+    },
+    {
+      "DOI": "10.1371/journal.pone.0116088",
+      "author": "Liechti R.",
+      "doi-asserted-by": "crossref",
+      "first-page": "e0116088",
+      "journal-title": "PLoS ONE",
+      "key": "nature23664-b28",
+      "volume": "10",
+      "year": "2015"
+    },
+    {
+      "DOI": "10.1016/j.expneurol.2007.01.014",
+      "author": "Christophersen N. S.",
+      "doi-asserted-by": "crossref",
+      "first-page": "791",
+      "journal-title": "Exp. Neurol.",
+      "key": "nature23664-b29",
+      "volume": "204",
+      "year": "2007"
+    },
+    {
+      "DOI": "10.1038/mt.2008.93",
+      "author": "Bauer G.",
+      "doi-asserted-by": "crossref",
+      "first-page": "1308",
+      "journal-title": "Mol. Ther.",
+      "key": "nature23664-b30",
+      "volume": "16",
+      "year": "2008"
+    },
+    {
+      "DOI": "10.1002/stem.1293",
+      "author": "Okita K.",
+      "doi-asserted-by": "crossref",
+      "first-page": "458",
+      "journal-title": "Stem Cells",
+      "key": "nature23664-b31",
+      "volume": "31",
+      "year": "2013"
+    },
+    {
+      "DOI": "10.1038/ncomms2231",
+      "author": "Miyazaki T.",
+      "doi-asserted-by": "crossref",
+      "first-page": "1236",
+      "journal-title": "Nat. Commun.",
+      "key": "nature23664-b32",
+      "volume": "3",
+      "year": "2012"
+    },
+    {
+      "DOI": "10.1038/srep03594",
+      "author": "Nakagawa M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "3594",
+      "journal-title": "Sci. Rep.",
+      "key": "nature23664-b33",
+      "volume": "4",
+      "year": "2014"
+    },
+    {
+      "DOI": "10.1002/jnr.22547",
+      "author": "Morizane A.",
+      "doi-asserted-by": "crossref",
+      "first-page": "117",
+      "journal-title": "J. Neurosci. Res.",
+      "key": "nature23664-b34",
+      "volume": "89",
+      "year": "2011"
+    },
+    {
+      "DOI": "10.1016/j.neuroimage.2004.07.051",
+      "author": "Smith S. M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "S208",
+      "journal-title": "Neuroimage",
+      "key": "nature23664-b35",
+      "volume": "23",
+      "year": "2004"
+    },
+    {
+      "DOI": "10.1002/hbm.10062",
+      "author": "Smith S. M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "143",
+      "journal-title": "Hum. Brain Mapp.",
+      "key": "nature23664-b36",
+      "volume": "17",
+      "year": "2002"
+    },
+    {
+      "DOI": "10.1016/S1361-8415(01)00036-6",
+      "author": "Jenkinson M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "143",
+      "journal-title": "Med. Image Anal.",
+      "key": "nature23664-b37",
+      "volume": "5",
+      "year": "2001"
+    },
+    {
+      "DOI": "10.1006/nimg.2002.1132",
+      "author": "Jenkinson M.",
+      "doi-asserted-by": "crossref",
+      "first-page": "825",
+      "journal-title": "Neuroimage",
+      "key": "nature23664-b38",
+      "volume": "17",
+      "year": "2002"
+    },
+    {
+      "DOI": "10.1109/42.906424",
+      "author": "Zhang Y.",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "journal-title": "IEEE Trans. Med. Imaging",
+      "key": "nature23664-b39",
+      "volume": "20",
+      "year": "2001"
+    },
+    {
+      "DOI": "10.1016/j.neuroimage.2011.01.040",
+      "author": "Frey S.",
+      "doi-asserted-by": "crossref",
+      "first-page": "1435",
+      "journal-title": "Neuroimage",
+      "key": "nature23664-b40",
+      "volume": "55",
+      "year": "2011"
+    },
+    {
+      "DOI": "10.1053/apmr.2001.21510",
+      "author": "Warschausky S.",
+      "doi-asserted-by": "crossref",
+      "first-page": "329",
+      "journal-title": "Arch. Phys. Med. Rehabil.",
+      "key": "nature23664-b41",
+      "volume": "82",
+      "year": "2001"
+    },
+    {
+      "DOI": "10.1016/j.biopsych.2004.11.009",
+      "author": "Jucaite A.",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "journal-title": "Biol. Psychiatry",
+      "key": "nature23664-b42",
+      "volume": "57",
+      "year": "2005"
+    },
+    {
+      "DOI": "10.2967/jnumed.106.037283",
+      "author": "Leroy C.",
+      "doi-asserted-by": "crossref",
+      "first-page": "538",
+      "journal-title": "J. Nucl. Med.",
+      "key": "nature23664-b43",
+      "volume": "48",
+      "year": "2007"
+    },
+    {
+      "DOI": "10.1097/00004647-199609000-00008",
+      "author": "Logan J.",
+      "doi-asserted-by": "crossref",
+      "first-page": "834",
+      "journal-title": "J. Cereb. Blood Flow Metab.",
+      "key": "nature23664-b44",
+      "volume": "16",
+      "year": "1996"
+    },
+    {
+      "DOI": "10.1038/jcbfm.1985.87",
+      "author": "Patlak C. S.",
+      "doi-asserted-by": "crossref",
+      "first-page": "584",
+      "journal-title": "J. Cereb. Blood Flow Metab.",
+      "key": "nature23664-b45",
+      "volume": "5",
+      "year": "1985"
+    },
+    {
+      "DOI": "10.1097/01.WCB.0000050041.22945.3E",
+      "author": "Sossi V.",
+      "doi-asserted-by": "crossref",
+      "first-page": "301",
+      "journal-title": "J. Cereb. Blood Flow Metab.",
+      "key": "nature23664-b46",
+      "volume": "23",
+      "year": "2003"
+    }
+  ],
+  "reference-count": 46,
+  "references-count": 46,
+  "relation": {
+    "cites": []
+  },
+  "score": 1.0,
+  "short-title": [],
+  "source": "Crossref",
+  "subject": [
+    "Multidisciplinary"
+  ],
+  "subtitle": [],
+  "title": "Human iPS cell-derived dopaminergic neurons function in a primate Parkinson\u2019s disease model",
+  "type": "article-journal",
+  "volume": "548"
+}

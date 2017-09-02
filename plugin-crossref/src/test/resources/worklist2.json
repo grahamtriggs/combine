@@ -1,0 +1,2891 @@
+{
+  "message": {
+    "facets": {},
+    "items": [
+      {
+        "DOI": "10.1515/9783110206562.2.fm",
+        "ISBN": [
+          "9783110206562"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9783110206562.2.fm",
+        "container-title": [
+          "Poesie der Grammatik und Grammatik der Poesie"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2009-03-31T10:53:46Z",
+          "timestamp": 1238496826000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              12
+            ]
+          ],
+          "date-time": "2017-05-12T15:33:22Z",
+          "timestamp": 1494603202000
+        },
+        "editor": [
+          {
+            "affiliation": [],
+            "family": "Birus",
+            "given": "Hendrik"
+          },
+          {
+            "affiliation": [],
+            "family": "Donat",
+            "given": "Sebastian"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              8
+            ]
+          ],
+          "date-time": "2017-08-08T15:09:33Z",
+          "timestamp": 1502204973748
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              16
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "http://www.degruyter.com/view/books/9783110206562/9783110206562.2.fm/9783110206562.2.fm.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/view/books/9783110206562/9783110206562.2.fm/9783110206562.2.fm.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "published-print": {
+          "date-parts": [
+            [
+              2007,
+              1,
+              16
+            ]
+          ]
+        },
+        "publisher": "Walter de Gruyter",
+        "publisher-location": "Berlin, New York",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1515/9783110206562.1.fm",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Frontmatter"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9783110193879.1.fm",
+        "ISBN": [
+          "9783110193879"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9783110193879.1.fm",
+        "container-title": [
+          "Agrippina. Epicharis"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2009-03-31T11:27:49Z",
+          "timestamp": 1238498869000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T21:55:46Z",
+          "timestamp": 1495144546000
+        },
+        "editor": [
+          {
+            "affiliation": [],
+            "family": "Mundt",
+            "given": "Lothar"
+          },
+          {
+            "affiliation": [],
+            "family": "Neuber",
+            "given": "Wolfgang"
+          },
+          {
+            "affiliation": [],
+            "family": "Rahn",
+            "given": "Thomas"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              8
+            ]
+          ],
+          "date-time": "2017-08-08T15:09:35Z",
+          "timestamp": 1502204975985
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              2005,
+              1,
+              18
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "http://www.degruyter.com/view/books/9783110193879/9783110193879.1.fm/9783110193879.1.fm.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://www.degruyter.com/view/books/9783110193879/9783110193879.1.fm/9783110193879.1.fm.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "published-print": {
+          "date-parts": [
+            [
+              2005,
+              1,
+              18
+            ]
+          ]
+        },
+        "publisher": "Walter de Gruyter",
+        "publisher-location": "Berlin, New York",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1515/9783110193879.2.fm",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Frontmatter"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1101/017566",
+        "URL": "http://dx.doi.org/10.1101/017566",
+        "abstract": "<jats:p>A powerful way to detect selection in a population is by modeling local allele frequency changes in a particular region of the genome under scenarios of selection and neutrality, and finding which model is most compatible with the data. Chen et al. (2010) developed a composite likelihood method called XP-CLR that uses an outgroup population to detect departures from neutrality which could be compatible with hard or soft sweeps, at linked sites near a beneficial allele. However, this method is most sensitive to recent selection and may miss selective events that happened a long time ago. To overcome this, we developed an extension of XP-CLR that jointly models the behavior of a selected allele in a three-population tree. Our method - called 3P-CLR - outperforms XP-CLR when testing for selection that occurred before two populations split from each other, and can distinguish between those events and events that occurred specifically in each of the populations after the split. We applied our new test to population genomic data from the 1000 Genomes Project, to search for selective sweeps that occurred before the split of Yoruba and Eurasians, but after their split from Neanderthals, and that could have led to the spread of modern-human-specific phenotypes. We also searched for sweep events that occurred in East Asians, Europeans and the ancestors of both populations, after their split from Yoruba. In both cases, we are able to confirm a number of regions identified by previous methods, and find several new candidates for selection in recent and ancient times. For some of these, we also find suggestive functional mutations that may have driven the selective events.</jats:p>",
+        "accepted": {
+          "date-parts": [
+            [
+              2015,
+              11,
+              19
+            ]
+          ]
+        },
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Racimo",
+            "given": "Fernando"
+          }
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              15
+            ]
+          ],
+          "date-time": "2015-04-15T23:19:05Z",
+          "timestamp": 1429139945000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2017-04-12T17:50:35Z",
+          "timestamp": 1492019435000
+        },
+        "group-title": "Evolutionary Biology",
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:14:21Z",
+          "timestamp": 1502313261774
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              6
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://syndication.highwire.org/content/doi/10.1101/017566",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "246",
+        "posted": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              6
+            ]
+          ]
+        },
+        "prefix": "10.1101",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-preprint-of": [
+            {
+              "asserted-by": "subject",
+              "id": "10.1534/genetics.115.178095",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Testing for ancient selection using cross-population allele frequency differentiation"
+        ],
+        "type": "posted-content"
+      },
+      {
+        "DOI": "10.1101/017590",
+        "URL": "http://dx.doi.org/10.1101/017590",
+        "abstract": "<jats:p>Maca (Lepidium meyenii Walp, 2n = 8x = 64) of Brassicaceae family is an Andean economic plant cultivated on the 4000-4500 meters central sierra in Peru. Considering the rapid uplift of central Andes occurred 5 to 10 million years ago (Mya), an evolutionary question arises on how plants like maca acquire high altitude adaptation within short geological period. Here, we report the high-quality genome assembly of maca, in which two close-spaced maca-specific whole genome duplications (WGDs, ~ 6.7 Mya) were identified. Comparative genomics between maca and close-related Brassicaceae species revealed expansions of maca genes and gene families involved in abiotic stress response, hormone signaling pathway and secondary metabolite biosynthesis via WGDs. Retention and subsequent evolution of many duplicated genes may account for the morphological and physiological changes (i.e. small leaf shape and loss of vernalization) in maca for high altitude environment. Additionally, some duplicated maca genes under positive selection were identified with functions in morphological adaptation (i.e. MYB59) and development (i.e. GDPD5 and HDA9). Collectively, the octoploid maca genome sheds light on the important roles of WGDs in plant high altitude adaptation in the Andes.</jats:p>",
+        "accepted": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              6
+            ]
+          ]
+        },
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Sheng",
+            "given": "Jun"
+          },
+          {
+            "affiliation": [],
+            "family": "Chen",
+            "given": "Wei"
+          },
+          {
+            "affiliation": [],
+            "family": "Dong",
+            "given": "Yang"
+          },
+          {
+            "affiliation": [],
+            "family": "Zhang",
+            "given": "Liangsheng"
+          },
+          {
+            "affiliation": [],
+            "family": "Zhang",
+            "given": "Jing"
+          },
+          {
+            "affiliation": [],
+            "family": "Tian",
+            "given": "Yang"
+          },
+          {
+            "affiliation": [],
+            "family": "Yan",
+            "given": "Liang"
+          },
+          {
+            "affiliation": [],
+            "family": "Zhang",
+            "given": "Guanghui"
+          },
+          {
+            "affiliation": [],
+            "family": "Wang",
+            "given": "Xiao"
+          },
+          {
+            "affiliation": [],
+            "family": "Zeng",
+            "given": "Yan"
+          },
+          {
+            "affiliation": [],
+            "family": "Zhang",
+            "given": "Jiajin"
+          },
+          {
+            "affiliation": [],
+            "family": "Ma",
+            "given": "Xiao"
+          },
+          {
+            "affiliation": [],
+            "family": "Tan",
+            "given": "Yuntao"
+          },
+          {
+            "affiliation": [],
+            "family": "Long",
+            "given": "Ni"
+          },
+          {
+            "affiliation": [],
+            "family": "Wang",
+            "given": "Yangzi"
+          },
+          {
+            "affiliation": [],
+            "family": "Ma",
+            "given": "Yujin"
+          },
+          {
+            "affiliation": [],
+            "family": "Xue",
+            "given": "Yu"
+          },
+          {
+            "affiliation": [],
+            "family": "Hao",
+            "given": "Shumei"
+          },
+          {
+            "affiliation": [],
+            "family": "Yang",
+            "given": "Shengchao"
+          },
+          {
+            "affiliation": [],
+            "family": "Wang",
+            "given": "Wen"
+          }
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              15
+            ]
+          ],
+          "date-time": "2015-04-15T23:19:05Z",
+          "timestamp": 1429139945000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2017-04-12T17:54:54Z",
+          "timestamp": 1492019694000
+        },
+        "group-title": "Genomics",
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:14:21Z",
+          "timestamp": 1502313261809
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              6
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://syndication.highwire.org/content/doi/10.1101/017590",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "246",
+        "posted": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              6
+            ]
+          ]
+        },
+        "prefix": "10.1101",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-preprint-of": [
+            {
+              "asserted-by": "subject",
+              "id": "10.1016/j.molp.2016.04.016",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Genome of octoploid plant maca (Lepidium meyenii) illuminates genomic basis for high altitude adaptation in the central Andes"
+        ],
+        "type": "posted-content"
+      },
+      {
+        "DOI": "10.1016/j.ajhg.2015.03.004",
+        "ISSN": [
+          "0002-9297"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.ajhg.2015.03.004",
+        "alternative-id": [
+          "S0002929715001056"
+        ],
+        "assertion": [
+          {
+            "label": "This article is maintained by",
+            "name": "publisher",
+            "value": "Elsevier"
+          },
+          {
+            "label": "Article Title",
+            "name": "articletitle",
+            "value": "Mixed Model with Correction for Case-Control Ascertainment Increases Association Power"
+          },
+          {
+            "label": "Journal Title",
+            "name": "journaltitle",
+            "value": "The American Journal of Human Genetics"
+          },
+          {
+            "label": "CrossRef DOI link to publisher maintained version",
+            "name": "articlelink",
+            "value": "http://dx.doi.org/10.1016/j.ajhg.2015.03.004"
+          },
+          {
+            "label": "Content Type",
+            "name": "content_type",
+            "value": "article"
+          },
+          {
+            "label": "Copyright",
+            "name": "copyright",
+            "value": "Copyright \u00a9 2015 The American Society of Human Genetics. Published by Elsevier Inc. All rights reserved."
+          }
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Hayeck",
+            "given": "Tristan\u00a0J."
+          },
+          {
+            "affiliation": [],
+            "family": "Zaitlen",
+            "given": "Noah\u00a0A."
+          },
+          {
+            "affiliation": [],
+            "family": "Loh",
+            "given": "Po-Ru"
+          },
+          {
+            "affiliation": [],
+            "family": "Vilhjalmsson",
+            "given": "Bjarni"
+          },
+          {
+            "affiliation": [],
+            "family": "Pollack",
+            "given": "Samuela"
+          },
+          {
+            "affiliation": [],
+            "family": "Gusev",
+            "given": "Alexander"
+          },
+          {
+            "affiliation": [],
+            "family": "Yang",
+            "given": "Jian"
+          },
+          {
+            "affiliation": [],
+            "family": "Chen",
+            "given": "Guo-Bo"
+          },
+          {
+            "affiliation": [],
+            "family": "Goddard",
+            "given": "Michael\u00a0E."
+          },
+          {
+            "affiliation": [],
+            "family": "Visscher",
+            "given": "Peter\u00a0M."
+          },
+          {
+            "affiliation": [],
+            "family": "Patterson",
+            "given": "Nick"
+          },
+          {
+            "affiliation": [],
+            "family": "Price",
+            "given": "Alkes\u00a0L."
+          }
+        ],
+        "container-title": [
+          "The American Journal of Human Genetics"
+        ],
+        "content-domain": {
+          "crossmark-restriction": true,
+          "domain": [
+            "ajhg.org",
+            "elsevier.com",
+            "sciencedirect.com"
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              17
+            ]
+          ],
+          "date-time": "2015-04-17T11:02:15Z",
+          "timestamp": 1429268535000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              23
+            ]
+          ],
+          "date-time": "2017-06-23T09:39:57Z",
+          "timestamp": 1498210797000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:18:44Z",
+          "timestamp": 1502313524239
+        },
+        "is-referenced-by-count": 9,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0002-9297"
+          }
+        ],
+        "issue": "5",
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              5
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2015,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2015-05-01T00:00:00Z",
+              "timestamp": 1430438400000
+            }
+          },
+          {
+            "URL": "http://www.elsevier.com/open-access/userlicense/1.0/",
+            "content-version": "vor",
+            "delay-in-days": 190,
+            "start": {
+              "date-parts": [
+                [
+                  2015,
+                  11,
+                  7
+                ]
+              ],
+              "date-time": "2015-11-07T00:00:00Z",
+              "timestamp": 1446854400000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S0002929715001056?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S0002929715001056?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "720-730",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2015,
+              5
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 35,
+        "references-count": 35,
+        "relation": {
+          "has-preprint": [
+            {
+              "asserted-by": "object",
+              "id": "10.1101/008755",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.1101/046995",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "short-container-title": [
+          "The American Journal of Human Genetics"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Genetics(clinical)",
+          "Genetics"
+        ],
+        "title": [
+          "Mixed Model with Correction for Case-Control Ascertainment Increases Association Power"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+        "volume": "96"
+      },
+      {
+        "DOI": "10.1101/018192",
+        "URL": "http://dx.doi.org/10.1101/018192",
+        "abstract": "<jats:p>For a scientific discipline to be interdisciplinary it must satisfy two conditions; it must consist of contributions from at least two existing disciplines and it must be able to provide insights, through this interaction, that neither progenitor discipline could address. In this paper, I examine the complete body of peer-reviewed literature self-identified as landscape genetics using the statistical approaches of text mining and natural language processing. The goal here is to quantify the kinds of questions being addressed in landscape genetic studies, the ways in which questions are evaluated mechanistically, and how they are differentiated from the progenitor disciplines of landscape ecology and population genetics. I then circumscribe the main factions within published landscape genetic papers examining the extent to which emergent questions are being addressed and highlighting a deep bifurcation between existing individual- and population-based approaches. I close by providing some suggestions on where theoretical and analytical work is needed if landscape genetics is to serve as a real bridge connecting evolution and ecology sensu lato.</jats:p>",
+        "accepted": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              16
+            ]
+          ]
+        },
+        "author": [
+          {
+            "ORCID": "http://orcid.org/0000-0003-4707-3453",
+            "affiliation": [],
+            "authenticated-orcid": false,
+            "family": "Dyer",
+            "given": "Rodney J"
+          }
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              17
+            ]
+          ],
+          "date-time": "2015-04-17T05:05:41Z",
+          "timestamp": 1429247141000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2017-04-12T17:47:16Z",
+          "timestamp": 1492019236000
+        },
+        "group-title": "Evolutionary Biology",
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:18:14Z",
+          "timestamp": 1502313494325
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              16
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://syndication.highwire.org/content/doi/10.1101/018192",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "246",
+        "posted": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              16
+            ]
+          ]
+        },
+        "prefix": "10.1101",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-preprint-of": [
+            {
+              "asserted-by": "subject",
+              "id": "10.1111/mec.13249",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Is there such a thing as Landscape Genetics?"
+        ],
+        "type": "posted-content"
+      },
+      {
+        "DOI": "10.1101/018184",
+        "URL": "http://dx.doi.org/10.1101/018184",
+        "abstract": "<jats:p>It is increasingly argued that cancer stem cells are not a cellular phenotype but rather a transient state that cells can acquire, either through intrinsic signaling cascades or in response to environmental cues. While cancer stem cell plasticity is generally associated with increased aggressiveness and treatment resistance, we set out to thoroughly investigate the impact of different rates of plasticity on early and late tumor growth dynamics and the response to therapy. We develop an agent-based model of cancer stem cell driven tumor growth, in which plasticity is defined as a spontaneous transition between stem and non-stem cancer cell states. Simulations of the model show that plasticity can substantially increase tumor growth rate and invasion. At high rates of plasticity, however, the cells get exhausted and the tumor will undergo spontaneous remission in the long term. In a series of in silico trials we show that such remission can be facilitated through radiotherapy. The presented study suggests that stem cell plasticity has rather complex, non-intuitive implications on tumor growth and treatment response. Further theoretical, experimental and integrated studies are needed to fully decipher cancer stem cell plasticity and how it can be harnessed for novel therapeutic approaches.</jats:p>",
+        "accepted": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              16
+            ]
+          ]
+        },
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Poleszczuk",
+            "given": "Jan"
+          },
+          {
+            "affiliation": [],
+            "family": "Enderling",
+            "given": "Heiko"
+          }
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              17
+            ]
+          ],
+          "date-time": "2015-04-17T05:05:41Z",
+          "timestamp": 1429247141000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2017-04-12T17:52:08Z",
+          "timestamp": 1492019528000
+        },
+        "group-title": "Cancer Biology",
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:18:14Z",
+          "timestamp": 1502313494344
+        },
+        "is-referenced-by-count": 1,
+        "issued": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              16
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://syndication.highwire.org/content/doi/10.1101/018184",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "246",
+        "posted": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              16
+            ]
+          ]
+        },
+        "prefix": "10.1101",
+        "publisher": "Cold Spring Harbor Laboratory",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-preprint-of": [
+            {
+              "asserted-by": "subject",
+              "id": "10.1155/2016/3923527",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Cancer stem cell plasticity as tumor growth promoter and catalyst of population collapse"
+        ],
+        "type": "posted-content"
+      },
+      {
+        "DOI": "10.1186/s13073-014-0089-z",
+        "ISSN": [
+          "1756-994X"
+        ],
+        "URL": "http://dx.doi.org/10.1186/s13073-014-0089-z",
+        "alternative-id": [
+          "89"
+        ],
+        "article-number": "89",
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Fang",
+            "given": "Han"
+          },
+          {
+            "affiliation": [],
+            "family": "Wu",
+            "given": "Yiyang"
+          },
+          {
+            "affiliation": [],
+            "family": "Narzisi",
+            "given": "Giuseppe"
+          },
+          {
+            "affiliation": [],
+            "family": "ORawe",
+            "given": "Jason A"
+          },
+          {
+            "affiliation": [],
+            "family": "Barr\u00f3n",
+            "given": "Laura T Jimenez"
+          },
+          {
+            "affiliation": [],
+            "family": "Rosenbaum",
+            "given": "Julie"
+          },
+          {
+            "affiliation": [],
+            "family": "Ronemus",
+            "given": "Michael"
+          },
+          {
+            "affiliation": [],
+            "family": "Iossifov",
+            "given": "Ivan"
+          },
+          {
+            "affiliation": [],
+            "family": "Schatz",
+            "given": "Michael C"
+          },
+          {
+            "affiliation": [],
+            "family": "Lyon",
+            "given": "Gholson J"
+          }
+        ],
+        "container-title": [
+          "Genome Medicine"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": [
+            "link.springer.com"
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              10,
+              27
+            ]
+          ],
+          "date-time": "2014-10-27T16:10:28Z",
+          "timestamp": 1414426228000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              6,
+              22
+            ]
+          ],
+          "date-time": "2017-06-22T23:06:26Z",
+          "timestamp": 1498172786000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T20:43:43Z",
+          "timestamp": 1502311423744
+        },
+        "is-referenced-by-count": 36,
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "1756-994X"
+          }
+        ],
+        "issue": "10",
+        "issued": {
+          "date-parts": [
+            [
+              2014,
+              10,
+              28
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.springer.com/tdm",
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2014,
+                  10,
+                  28
+                ]
+              ],
+              "date-time": "2014-10-28T00:00:00Z",
+              "timestamp": 1414454400000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1186/s13073-014-0089-z.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/article/10.1186/s13073-014-0089-z/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1186/s13073-014-0089-z",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "297",
+        "prefix": "10.1186",
+        "published-online": {
+          "date-parts": [
+            [
+              2014,
+              10,
+              28
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014,
+              12
+            ]
+          ]
+        },
+        "publisher": "Springer Nature",
+        "reference": [
+          {
+            "DOI": "10.1038/ng.2437",
+            "author": "J Gudmundsson",
+            "doi-asserted-by": "crossref",
+            "first-page": "1326",
+            "journal-title": "Nat Genet",
+            "key": "89_CR1",
+            "unstructured": "Gudmundsson J, Sulem P, Gudbjartsson DF, Masson G, Agnarsson BA, Benediktsdottir KR, Sigurdsson A, Magnusson OT, Gudjonsson SA, Magnusdottir DN, Johannsdottir H, Helgadottir HT, Stacey SN, Jonasdottir N, Olafsdottir SB, Thorleifsson G, Jonasson JG, Tryggvadottir L, Navarrete S, Fuertes F, Helfand BT, Hu Q, Csiki IE, Mates IN, Jinga V, Aben KKH, van Oort IM, Vermeulen SH, Donovan JL, Hamdy FC: A study based on whole-genome sequencing yields a rare variant at 8q24 associated with prostate cancer. Nat Genet. 2012, 44: 1326-1329.",
+            "volume": "44",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1016/j.ajhg.2011.05.017",
+            "author": "AF Rope",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "journal-title": "Am J Hum Genet",
+            "key": "89_CR2",
+            "unstructured": "Rope AF, Wang K, Evjenth R, Xing J, Johnston JJ, Swensen JJ, Johnson WE, Moore B, Huff CD, Bird LM, Carey JC, Opitz JM, Stevens CA, Jiang T, Schank C, Fain HD, Robison R, Dalley B, Chin S, South ST, Pysher TJ, Jorde LB, Hakonarson H, Lillehaug JR, Biesecker LG, Yandell M, Arnesen T, Lyon GJ: Using VAAST to identify an X-linked disorder resulting in lethality in male infants due to N-terminal acetyltransferase deficiency. Am J Hum Genet. 2011, 89: 28-43.",
+            "volume": "89",
+            "year": "2011"
+          },
+          {
+            "DOI": "10.1056/NEJMra1312543",
+            "author": "LG Biesecker",
+            "doi-asserted-by": "crossref",
+            "first-page": "2418",
+            "journal-title": "N Engl J Med",
+            "key": "89_CR3",
+            "unstructured": "Biesecker LG, Green RC: Diagnostic clinical genome and exome sequencing. N Engl J Med. 2014, 370: 2418-2425.",
+            "volume": "370",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1186/gm462",
+            "author": "CJ Patel",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "journal-title": "Genome Med",
+            "key": "89_CR4",
+            "unstructured": "Patel CJ, Sivadas A, Tabassum R, Preeprem T, Zhao J, Arafat D, Chen R, Morgan AA, Martin GS, Brigham KL, Butte AJ, Gibson G: Whole genome sequencing in support of wellness and health maintenance. Genome Med. 2013, 5: 58-",
+            "volume": "5",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.7717/peerj.177",
+            "author": "JA O'Rawe",
+            "doi-asserted-by": "crossref",
+            "first-page": "e177",
+            "journal-title": "Peer J",
+            "key": "89_CR5",
+            "unstructured": "O'Rawe JA, Fang H, Rynearson S, Robison R, Kiruluta ES, Higgins G, Eilbeck K, Reese MG, Lyon GJ: Integrating precision medicine in the study and clinical treatment of a severely mentally ill person. Peer J. 2013, 1: e177-",
+            "volume": "1",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1016/j.cell.2012.02.009",
+            "author": "R Chen",
+            "doi-asserted-by": "crossref",
+            "first-page": "1293",
+            "journal-title": "Cell",
+            "key": "89_CR6",
+            "unstructured": "Chen R, Mias GI, Li-Pook-Than J, Jiang L, Lam HYK, Chen R, Miriami E, Karczewski KJ, Hariharan M, Dewey FE, Cheng Y, Clark MJ, Im H, Habegger L, Balasubramanian S, O'Huallachain M, Dudley JT, Hillenmeyer S, Haraksingh R, Sharon D, Euskirchen G, Lacroute P, Bettinger K, Boyle AP, Kasowski M, Grubert F, Seki S, Garcia M, Whirl-Carrillo M: Personal omics profiling reveals dynamic molecular and medical phenotypes. Cell. 2012, 148: 1293-1307.",
+            "volume": "148",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1186/gm483",
+            "author": "L Hood",
+            "doi-asserted-by": "crossref",
+            "first-page": "79",
+            "journal-title": "Genome Med",
+            "key": "89_CR7",
+            "unstructured": "Hood L, Rowen L: The human genome project: big science transforms biology and medicine. Genome Med. 2013, 5: 79-",
+            "volume": "5",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1038/gim.2013.120",
+            "author": "P Tarczy-Hornoch",
+            "doi-asserted-by": "crossref",
+            "first-page": "824",
+            "journal-title": "Genet Med",
+            "key": "89_CR8",
+            "unstructured": "Tarczy-Hornoch P, Amendola L, Aronson SJ, Garraway L, Gray S, Grundmeier RW, Hindorff LA, Jarvik G, Karavite D, Lebo M, Plon SE, Van Allen E, Weck KE, White PS, Yang Y: A survey of informatics approaches to whole-exome and whole-genome clinical reporting in the electronic health record. Genet Med. 2013, 15: 824-832.",
+            "volume": "15",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1186/gm359",
+            "author": "GJ Lyon",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "journal-title": "Genome Med",
+            "key": "89_CR9",
+            "unstructured": "Lyon GJ, Wang K: Identifying disease mutations in genomic medicine settings: current challenges and how to accelerate progress. Genome Med. 2012, 4: 58-",
+            "volume": "4",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1186/gm432",
+            "author": "J O'Rawe",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "journal-title": "Genome Med",
+            "key": "89_CR10",
+            "unstructured": "O'Rawe J, Jiang T, Sun G, Wu Y, Wang W, Hu J, Bodily P, Tian L, Hakonarson H, Johnson WE, Wei Z, Wang K, Lyon GJ: Low concordance of multiple variant-calling pipelines: practical implications for exome and genome sequencing. Genome Med. 2013, 5: 28-",
+            "volume": "5",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1001/jama.2014.1717",
+            "author": "FE Dewey",
+            "doi-asserted-by": "crossref",
+            "first-page": "1035",
+            "journal-title": "JAMA",
+            "key": "89_CR11",
+            "unstructured": "Dewey FE, Grove ME, Pan C, Goldstein BA, Bernstein JA, Chaib H, Merker JD, Goldfeder RL, Enns GM, David SP, Pakdaman N, Ormond KE, Caleshu C, Kingham K, Klein TE, Whirl-Carrillo M, Sakamoto K, Wheeler MT, Butte AJ, Ford JM, Boxer L, Ioannidis JP, Yeung AC, Altman RB, Assimes TL, Snyder M, Ashley EA, Quertermous T: Clinical interpretation and implications of whole-genome sequencing. JAMA. 2014, 311: 1035-1045.",
+            "volume": "311",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1038/nbt.2835",
+            "author": "JM Zook",
+            "doi-asserted-by": "crossref",
+            "first-page": "246",
+            "journal-title": "Nat Biotechnol",
+            "key": "89_CR12",
+            "unstructured": "Zook JM, Chapman B, Wang J, Mittelman D, Hofmann O, Hide W, Salit M: Integrating human sequence data sets provides a resource of benchmark SNP and indel genotype calls. Nat Biotechnol. 2014, 32: 246-251.",
+            "volume": "32",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1038/ng.3036",
+            "author": "A Rimmer",
+            "doi-asserted-by": "crossref",
+            "first-page": "912",
+            "journal-title": "Nat Genet",
+            "key": "89_CR13",
+            "unstructured": "Rimmer A, Phan H, Mathieson I, Iqbal Z, Twigg SRF, Consortium WGS, Wilkie AOM, McVean G, Lunter G: Integrating mapping-, assembly- and haplotype-based approaches for calling variants in clinical sequencing applications. Nat Genet. 2014, 46: 912-918.",
+            "volume": "46",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1016/j.cell.2011.09.008",
+            "author": "JR Lupski",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "journal-title": "Cell",
+            "key": "89_CR14",
+            "unstructured": "Lupski JR, Belmont JW, Boerwinkle E, Gibbs RA: Clan genomics and the complex architecture of human disease. Cell. 2011, 147: 32-43.",
+            "volume": "147",
+            "year": "2011"
+          },
+          {
+            "author": "GJ Lyon",
+            "first-page": "978-1-118-52488",
+            "key": "89_CR15",
+            "unstructured": "Lyon GJ, O\u2019Rawe J: Human genetics and clinical aspects of neurodevelopmental disorders. The Genetics of Neurodevelopmental Disorders. Edited by: Mitchell K. 2014, 978-1-118-52488-6-Wiley-Blackwell, Oxford",
+            "volume-title": "The Genetics of Neurodevelopmental Disorders",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1016/j.cell.2010.03.032",
+            "author": "J McClellan",
+            "doi-asserted-by": "crossref",
+            "first-page": "210",
+            "journal-title": "Cell",
+            "key": "89_CR16",
+            "unstructured": "McClellan J, King M-C: Genetic heterogeneity in human disease. Cell. 2010, 141: 210-217.",
+            "volume": "141",
+            "year": "2010"
+          },
+          {
+            "DOI": "10.1016/j.tig.2010.12.004",
+            "author": "C Ober",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "journal-title": "Trends Genet",
+            "key": "89_CR17",
+            "unstructured": "Ober C, Vercelli D: Gene-environment interactions in human disease: nuisance or opportunity?. Trends Genet. 2011, 27: 107-115.",
+            "volume": "27",
+            "year": "2011"
+          },
+          {
+            "DOI": "10.1159/000354571",
+            "author": "F Clerget-Darpoux",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "journal-title": "Hum Hered",
+            "key": "89_CR18",
+            "unstructured": "Clerget-Darpoux F, Elston RC: Will formal genetics become dispensable?. Hum Hered. 2013, 76: 47-52.",
+            "volume": "76",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1038/79866",
+            "author": "KM Weiss",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "journal-title": "Nat Genet",
+            "key": "89_CR19",
+            "unstructured": "Weiss KM, Terwilliger JD: How many diseases does it take to map a gene with SNPs?. Nat Genet. 2000, 26: 151-157.",
+            "volume": "26",
+            "year": "2000"
+          },
+          {
+            "DOI": "10.1038/482300a",
+            "author": "GJ Lyon",
+            "doi-asserted-by": "crossref",
+            "first-page": "300",
+            "journal-title": "Nature",
+            "key": "89_CR20",
+            "unstructured": "Lyon GJ: Personalized medicine: bring clinical standards to human-genetics research. Nature. 2012, 482: 300-301.",
+            "volume": "482",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1038/nature13127",
+            "author": "DG MacArthur",
+            "doi-asserted-by": "crossref",
+            "first-page": "469",
+            "journal-title": "Nature",
+            "key": "89_CR21",
+            "unstructured": "MacArthur DG, Manolio TA, Dimmock DP, Rehm HL, Shendure J, Abecasis GR, Adams DR, Altman RB, Antonarakis SE, Ashley EA, Barrett JC, Biesecker LG, Conrad DF, Cooper GM, Cox NJ, Daly MJ, Gerstein MB, Goldstein DB, Hirschhorn JN, Leal SM, Pennacchio LA, Stamatoyannopoulos JA, Sunyaev SR, Valle D, Voight BF, Winckler W, Gunter C: Guidelines for investigating causality of sequence variants in human disease. Nature. 2014, 508: 469-476.",
+            "volume": "508",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1186/gb-2013-14-5-r51",
+            "author": "MG Ross",
+            "doi-asserted-by": "crossref",
+            "first-page": "R51",
+            "journal-title": "Genome Biol",
+            "key": "89_CR22",
+            "unstructured": "Ross MG, Russ C, Costello M, Hollinger A, Lennon NJ, Hegarty R, Nusbaum C, Jaffe DB: Characterizing and measuring bias in sequence data. Genome Biol. 2013, 14: R51-",
+            "volume": "14",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1038/nbt.1975",
+            "author": "MJ Clark",
+            "doi-asserted-by": "crossref",
+            "first-page": "908",
+            "journal-title": "Nat Biotechnol",
+            "key": "89_CR23",
+            "unstructured": "Clark MJ, Chen R, Lam HYK, Karczewski KJ, Chen R, Euskirchen G, Butte AJ, Snyder M: Performance comparison of exome DNA sequencing technologies. Nat Biotechnol. 2011, 29: 908-914.",
+            "volume": "29",
+            "year": "2011"
+          },
+          {
+            "DOI": "10.1038/nbt.2065",
+            "author": "HY Lam",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "journal-title": "Nat Biotechnol",
+            "key": "89_CR24",
+            "unstructured": "Lam HY, Clark MJ, Chen R, Chen R, Natsoulis G, O'Huallachain M, Dewey FE, Habegger L, Ashley EA, Gerstein MB, Butte AJ, Ji HP, Snyder M: Performance comparison of whole-genome sequencing platforms. Nat Biotechnol. 2012, 30: 78-82. 10.1038/nbt.2065.",
+            "volume": "30",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1186/1755-8794-7-20",
+            "author": "M Linderman",
+            "doi-asserted-by": "crossref",
+            "first-page": "20",
+            "journal-title": "BMC Med Genomics",
+            "key": "89_CR25",
+            "unstructured": "Linderman M, Brandt T, Edelmann L, Jabado O, Kasai Y, Kornreich R, Mahajan M, Shah H, Kasarskis A, Schadt E: Analytical validation of whole exome and whole genome sequencing for clinical applications. BMC Med Genomics. 2014, 7: 20-",
+            "volume": "7",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1038/nrg3031",
+            "author": "MJ Bamshad",
+            "doi-asserted-by": "crossref",
+            "first-page": "745",
+            "journal-title": "Nat Rev Genet",
+            "key": "89_CR26",
+            "unstructured": "Bamshad MJ, Ng SB, Bigham AW, Tabor HK, Emond MJ, Nickerson DA, Shendure J: Exome sequencing as a tool for Mendelian disease gene discovery. Nat Rev Genet. 2011, 12: 745-755.",
+            "volume": "12",
+            "year": "2011"
+          },
+          {
+            "DOI": "10.1002/ajmg.a.35470",
+            "author": "MJ Bamshad",
+            "doi-asserted-by": "crossref",
+            "first-page": "1523",
+            "journal-title": "Am J Med Genet A",
+            "key": "89_CR27",
+            "unstructured": "Bamshad MJ, Shendure JA, Valle D, Hamosh A, Lupski JR, Gibbs RA, Boerwinkle E, Lifton RP, Gerstein M, Gunel M, Mane S, Nickerson DA: The Centers for Mendelian Genomics: a new large-scale initiative to identify the genes underlying rare Mendelian conditions. Am J Med Genet A. 2012, 158A: 1523-1525.",
+            "volume": "158A",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1371/journal.pone.0078496",
+            "author": "T Eisenberger",
+            "doi-asserted-by": "crossref",
+            "first-page": "e78496",
+            "journal-title": "PLoS ONE",
+            "key": "89_CR28",
+            "unstructured": "Eisenberger T, Neuhaus C, Khan AO, Decker C, Preising MN, Friedburg C, Bieg A, Gliem M, Issa PC, Holz FG, Baig SM, Hellenbroich Y, Galvez A, Platzer K, Wollnik B, Laddach N, Ghaffari SR, Rafati M, Botzenhart E, Tinschert S, B\u00f6rger D, Bohring A, Schreml J, K\u00f6rtge-Jung S, Schell-Apacik S, Bakur K, Al-Aama JY, Neuhann T, Herkenrath P, N\u00fcrnberg G: Increasing the yield in targeted next-generation sequencing by implicating CNV analysis, non-coding exons and the overall variant load: the example of retinal dystrophies. PLoS ONE. 2013, 8: e78496-",
+            "volume": "8",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1016/j.cell.2014.03.008",
+            "author": "R Cech Thomas",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "journal-title": "Cell",
+            "key": "89_CR29",
+            "unstructured": "Cech Thomas R, Steitz Joan A: The noncoding RNA revolution trashing Old rules to forge new ones. Cell. 2014, 157: 77-94.",
+            "volume": "157",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1146/annurev-genom-090413-025405",
+            "author": "S Li",
+            "doi-asserted-by": "crossref",
+            "first-page": "127",
+            "journal-title": "Annu Rev Genomics Hum Genet",
+            "key": "89_CR30",
+            "unstructured": "Li S, Mason CE: The pivotal regulatory landscape of RNA modifications. Annu Rev Genomics Hum Genet. 2014, 15: 127-150.",
+            "volume": "15",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1038/nrg2626",
+            "author": "ML Metzker",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "journal-title": "Nat Rev Genet",
+            "key": "89_CR31",
+            "unstructured": "Metzker ML: Sequencing technologies - the next generation. Nat Rev Genet. 2010, 11: 31-46.",
+            "volume": "11",
+            "year": "2010"
+          },
+          {
+            "DOI": "10.1016/j.ajhg.2012.07.004",
+            "author": "M Zhu",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "journal-title": "Am J Hum Genet",
+            "key": "89_CR32",
+            "unstructured": "Zhu M, Need AC, Han Y, Ge D, Maia JM, Zhu Q, Heinzen EL, Cirulli ET, Pelak K, He M, Ruzzo EK, Gumbs C, Singh A, Feng S, Shianna KV, Goldstein DB: Using ERDS to infer copy-number variants in high-coverage genomes. Am J Hum Genet. 2012, 91: 408-421.",
+            "volume": "91",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1186/1471-2105-15-247",
+            "author": "A Meynert",
+            "doi-asserted-by": "crossref",
+            "first-page": "247",
+            "journal-title": "BMC Bioinformatics",
+            "key": "89_CR33",
+            "unstructured": "Meynert A, Ansari M, FitzPatrick D, Taylor M: Variant detection sensitivity and biases in whole genome and exome sequencing. BMC Bioinformatics. 2014, 15: 247-",
+            "volume": "15",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1093/hmg/ddq400",
+            "author": "JM Mullaney",
+            "doi-asserted-by": "crossref",
+            "first-page": "R131",
+            "journal-title": "Hum Mol Genet",
+            "key": "89_CR34",
+            "unstructured": "Mullaney JM, Mills RE, Pittard WS, Devine SE: Small insertions and deletions (INDELs) in human genomes. Hum Mol Genet. 2010, 19: R131-R136.",
+            "volume": "19",
+            "year": "2010"
+          },
+          {
+            "DOI": "10.1101/gr.115907.110",
+            "author": "RE Mills",
+            "doi-asserted-by": "crossref",
+            "first-page": "830",
+            "journal-title": "Genome Res",
+            "key": "89_CR35",
+            "unstructured": "Mills RE, Pittard WS, Mullaney JM, Farooq U, Creasy TH, Mahurkar AA, Kemeza DM, Strassler DS, Ponting CP, Webber C, Devine SE: Natural genetic variation caused by small insertions and deletions in the human genome. Genome Res. 2011, 21: 830-839.",
+            "volume": "21",
+            "year": "2011"
+          },
+          {
+            "DOI": "10.1101/gr.4565806",
+            "author": "RE Mills",
+            "doi-asserted-by": "crossref",
+            "first-page": "1182",
+            "journal-title": "Genome Res",
+            "key": "89_CR36",
+            "unstructured": "Mills RE, Luttig CT, Larkins CE, Beauchamp A, Tsui C, Pittard WS, Devine SE: An initial map of insertion and deletion (INDEL) variation in the human genome. Genome Res. 2006, 16: 1182-1190.",
+            "volume": "16",
+            "year": "2006"
+          },
+          {
+            "DOI": "10.1093/bioinformatics/btu356",
+            "author": "H Li",
+            "doi-asserted-by": "crossref",
+            "first-page": "2843",
+            "journal-title": "Bioinformatics",
+            "key": "89_CR37",
+            "unstructured": "Li H: Toward better understanding of artifacts in variant calling from high-coverage samples. Bioinformatics. 2014, 30: 2843-2851.",
+            "volume": "30",
+            "year": "2014"
+          },
+          {
+            "DOI": "10.1093/nar/gks981",
+            "author": "G Highnam",
+            "doi-asserted-by": "crossref",
+            "first-page": "e32",
+            "journal-title": "Nucleic Acids Res",
+            "key": "89_CR38",
+            "unstructured": "Highnam G, Franck C, Martin A, Stephens C, Puthige A, Mittelman D: Accurate human microsatellite genotypes from high-throughput resequencing data using informed error profiles. Nucleic Acids Res. 2013, 41: e32-",
+            "volume": "41",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1038/ng.1028",
+            "author": "Z Iqbal",
+            "doi-asserted-by": "crossref",
+            "first-page": "226",
+            "journal-title": "Nat Genet",
+            "key": "89_CR39",
+            "unstructured": "Iqbal Z, Caccamo M, Turner I, Flicek P, McVean G: De novo assembly and genotyping of variants using colored de Bruijn graphs. Nat Genet. 2012, 44: 226-232.",
+            "volume": "44",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1038/nmeth.3069",
+            "author": "G Narzisi",
+            "doi-asserted-by": "crossref",
+            "first-page": "1033",
+            "journal-title": "Nat Methods",
+            "key": "89_CR40",
+            "unstructured": "Narzisi G, O\u2019Rawe JA, Iossifov I, Fang H, Lee Y-h, Wang Z, Wu Y, Lyon GJ, Wigler M, Schatz MC: Accurate de novo and transmitted indel detection in exome-capture data using microassembly. Nat Methods. 2014, 11: 1033-1036.",
+            "volume": "11",
+            "year": "2014"
+          },
+          {
+            "key": "89_CR41",
+            "unstructured": "Li H: Aligning sequence reads, clone sequences and assembly contigs with BWAMEM. arXiv. 2013, 1303.3997"
+          },
+          {
+            "DOI": "10.1093/bioinformatics/btp352",
+            "author": "H Li",
+            "doi-asserted-by": "crossref",
+            "first-page": "2078",
+            "journal-title": "Bioinformatics",
+            "key": "89_CR42",
+            "unstructured": "Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R: The Sequence Alignment/Map format and SAMtools. Bioinformatics. 2009, 25: 2078-2079.",
+            "volume": "25",
+            "year": "2009"
+          },
+          {
+            "DOI": "10.1038/ng.806",
+            "author": "MA DePristo",
+            "doi-asserted-by": "crossref",
+            "first-page": "491",
+            "journal-title": "Nat Genet",
+            "key": "89_CR43",
+            "unstructured": "DePristo MA, Banks E, Poplin R, Garimella KV, Maguire JR, Hartl C, Philippakis AA, del Angel G, Rivas MA, Hanna M, McKenna A, Fennell TJ, Kernytsky AM, Sivachenko AY, Cibulskis K, Gabriel SB, Altshuler D, Daly MJ: A framework for variation discovery and genotyping using next-generation DNA sequencing data. Nat Genet. 2011, 43: 491-498.",
+            "volume": "43",
+            "year": "2011"
+          },
+          {
+            "DOI": "10.1016/j.neuron.2012.04.009",
+            "author": "I Iossifov",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "journal-title": "Neuron",
+            "key": "89_CR44",
+            "unstructured": "Iossifov I, Ronemus M, Levy D, Wang Z, Hakker I, Rosenbaum J, Yamrom B, Lee YH, Narzisi G, Leotta A, Kendall J, Grabowska E, Ma B, Marks S, Rodgers L, Stepansky A, Troge J, Andrews P, Bekritsky M, Pradhan K, Ghiban E, Kramer M, Parla J, Demeter R, Fulton LL, Fulton RS, Magrini VJ, Ye K, Darnell JC, Darnell RB: De novo gene disruptions in children on the autistic spectrum. Neuron. 2012, 74: 285-299.",
+            "volume": "74",
+            "year": "2012"
+          },
+          {
+            "key": "89_CR45",
+            "unstructured": "The Sequence Read Archive. , http://www.ncbi.nlm.nih.gov/sra/"
+          },
+          {
+            "key": "89_CR46",
+            "unstructured": "The National Database for Autism Research., http://ndar.nih.gov/"
+          },
+          {
+            "key": "89_CR47",
+            "unstructured": "The Simons Foundation Autism Research Initiative., http://sfari.org/"
+          },
+          {
+            "DOI": "10.1093/bioinformatics/btq033",
+            "author": "AR Quinlan",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "journal-title": "Bioinformatics",
+            "key": "89_CR48",
+            "unstructured": "Quinlan AR, Hall IM: BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics. 2010, 26: 841-842.",
+            "volume": "26",
+            "year": "2010"
+          },
+          {
+            "DOI": "10.1101/gr.135780.111",
+            "author": "M Gymrek",
+            "doi-asserted-by": "crossref",
+            "first-page": "1154",
+            "journal-title": "Genome Res",
+            "key": "89_CR49",
+            "unstructured": "Gymrek M, Golan D, Rosset S, Erlich Y: lobSTR: a short tandem repeat profiler for personal genomes. Genome Res. 2012, 22: 1154-1162.",
+            "volume": "22",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1101/gr.177774.114",
+            "doi-asserted-by": "crossref",
+            "key": "89_CR50",
+            "unstructured": "Willems TF, Gymrek M, Highnam G, The 1000 Genomes Project Consortium, Mittelman D, Erlich Y: The landscape of human STR variation.Genome Res 2014. doi:10.1101/gr.177774.114.,"
+          },
+          {
+            "DOI": "10.1093/bioinformatics/bts503",
+            "author": "F Garc\u00eda-Alcalde",
+            "doi-asserted-by": "crossref",
+            "first-page": "2678",
+            "journal-title": "Bioinformatics",
+            "key": "89_CR51",
+            "unstructured": "Garc\u00eda-Alcalde F, Okonechnikov K, Carbonell J, Cruz LM, G\u00f6tz S, Tarazona S, Dopazo J, Meyer TF, Conesa A: Qualimap: evaluating next-generation sequencing alignment data. Bioinformatics. 2012, 28: 2678-2679.",
+            "volume": "28",
+            "year": "2012"
+          },
+          {
+            "DOI": "10.1109/MCSE.2007.55",
+            "author": "JD Hunter",
+            "doi-asserted-by": "crossref",
+            "first-page": "90",
+            "journal-title": "Comput Sci Eng",
+            "key": "89_CR52",
+            "unstructured": "Hunter JD: Matplotlib: A 2D Graphics Environment. Comput Sci Eng. 2007, 9: 90-95. 10.1109/MCSE.2007.55.",
+            "volume": "9",
+            "year": "2007"
+          },
+          {
+            "DOI": "10.1038/nmeth.1923",
+            "author": "B Langmead",
+            "doi-asserted-by": "crossref",
+            "first-page": "357",
+            "journal-title": "Nat Methods",
+            "key": "89_CR53",
+            "unstructured": "Langmead B, Salzberg SL: Fast gapped-read alignment with Bowtie 2. Nat Methods. 2012, 9: 357-359.",
+            "volume": "9",
+            "year": "2012"
+          },
+          {
+            "author": "GA Van der Auwera",
+            "first-page": "11",
+            "journal-title": "Curr Protoc Bioinformatics",
+            "key": "89_CR54",
+            "unstructured": "Van der Auwera GA, Carneiro MO, Hartl C, Poplin R, del Angel G, Levy-Moonshine A, Jordan T, Shakir K, Roazen D, Thibault J, Banks E, Garimella KV, Altshuler D, Gabriel S, DePristo MA: From FastQ data to high-confidence variant calls: the genome analysis toolkit best practices pipeline. Curr Protoc Bioinformatics. 2013, 11: 11-10:11.10.111.10.33",
+            "volume": "11",
+            "year": "2013"
+          },
+          {
+            "DOI": "10.1038/nmeth.1451",
+            "author": "JM Kidd",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "journal-title": "Nat Methods",
+            "key": "89_CR55",
+            "unstructured": "Kidd JM, Sampas N, Antonacci F, Graves T, Fulton R, Hayden HS, Alkan C, Malig M, Ventura M, Giannuzzi G, Kallicki J, Anderson P, Tsalenko A, Yamada NA, Tsang P, Kaul R, Wilson RK, Bruhn L, Eichler EE: Characterization of missing human genome sequences and copy-number polymorphic insertions. Nat Methods. 2010, 7: 365-371.",
+            "volume": "7",
+            "year": "2010"
+          },
+          {
+            "DOI": "10.1101/gr.123638.111",
+            "author": "SS Ajay",
+            "doi-asserted-by": "crossref",
+            "first-page": "1498",
+            "journal-title": "Genome Res",
+            "key": "89_CR56",
+            "unstructured": "Ajay SS, Parker SC, Abaan HO, Fajardo KV, Margulies EH: Accurate and comprehensive sequencing of personal genomes. Genome Res. 2011, 21: 1498-1505.",
+            "volume": "21",
+            "year": "2011"
+          },
+          {
+            "DOI": "10.1101/gr.091868.109",
+            "author": "KJ McKernan",
+            "doi-asserted-by": "crossref",
+            "first-page": "1527",
+            "journal-title": "Genome Res",
+            "key": "89_CR57",
+            "unstructured": "McKernan KJ, Peckham HE, Costa GL, McLaughlin SF, Fu Y, Tsung EF, Clouser CR, Duncan C, Ichikawa JK, Lee CC, Zhang Z, Ranade SS, Dimalanta ET, Hyland FC, Sokolsky TD, Zhang L, Sheridan A, Fu H, Hendrickson CL, Li B, Kotler L, Stuart JR, Malek JA, Manning JM, Antipova AA, Perez DS, Moore MP, Hayashibara KC, Lyons MR, Beaudoin RE: Sequence and structural variation in a human genome uncovered by short-read, massively parallel ligation sequencing using two-base encoding. Genome Res. 2009, 19: 1527-1541.",
+            "volume": "19",
+            "year": "2009"
+          },
+          {
+            "DOI": "10.1038/nature06884",
+            "author": "DA Wheeler",
+            "doi-asserted-by": "crossref",
+            "first-page": "872",
+            "journal-title": "Nature",
+            "key": "89_CR58",
+            "unstructured": "Wheeler DA, Srinivasan M, Egholm M, Shen Y, Chen L, McGuire A, He W, Chen Y-J, Makhijani V, Roth GT, Gomes X, Tartaro K, Niazi F, Turcotte CL, Irzyk GP, Lupski JR, Chinault C, Song XZ, Liu Y, Yuan Y, Nazareth L, Qin X, Muzny DM, Margulies M, Weinstock GM, Gibbs RA, Rothberg JM: The complete genome of an individual by massively parallel DNA sequencing. Nature. 2008, 452: 872-876.",
+            "volume": "452",
+            "year": "2008"
+          }
+        ],
+        "reference-count": 58,
+        "references-count": 58,
+        "relation": {
+          "cites": [],
+          "has-preprint": [
+            {
+              "asserted-by": "object",
+              "id": "10.1101/006148",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "short-container-title": [
+          "Genome Med"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Genetics(clinical)",
+          "Molecular Medicine",
+          "Genetics",
+          "Molecular Biology"
+        ],
+        "title": [
+          "Reducing INDEL calling errors in whole genome and exome sequencing data"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+        "volume": "6"
+      },
+      {
+        "DOI": "10.1515/9781400824670",
+        "ISBN": [
+          "9781400824670"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400824670",
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Garber",
+            "given": "Marjorie"
+          }
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:42Z",
+          "timestamp": 1429620162000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T15:29:45Z",
+          "timestamp": 1495121385000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:22:59Z",
+          "timestamp": 1502313779936
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              2009,
+              1,
+              31
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400824670/9781400824670/9781400824670.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              1,
+              31
+            ]
+          ]
+        },
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.2307/j.ctt7s1cd",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.1353/book.30101",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "subtitle": [
+          ""
+        ],
+        "title": [
+          "Academic Instincts"
+        ],
+        "type": "monograph"
+      },
+      {
+        "DOI": "10.1515/9781400824670-toc",
+        "ISBN": [
+          "9781400824670"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400824670-toc",
+        "container-title": [
+          "Academic Instincts"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:42Z",
+          "timestamp": 1429620162000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:39:38Z",
+          "timestamp": 1495125578000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:22:59Z",
+          "timestamp": 1502313779961
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400824670/9781400824670-toc/9781400824670-toc.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1195830",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Contents"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400824670-001",
+        "ISBN": [
+          "9781400824670"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400824670-001",
+        "container-title": [
+          "Academic Instincts"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:42Z",
+          "timestamp": 1429620162000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:39:40Z",
+          "timestamp": 1495125580000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:22:59Z",
+          "timestamp": 1502313779989
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400824670/9781400824670-001/9781400824670-001.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1195831",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.2307/j.ctt7s1cd.3",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Preface"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400824670-002",
+        "ISBN": [
+          "9781400824670"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400824670-002",
+        "container-title": [
+          "Academic Instincts"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:42Z",
+          "timestamp": 1429620162000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:47:54Z",
+          "timestamp": 1495126074000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:00Z",
+          "timestamp": 1502313780024
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400824670/9781400824670-002/9781400824670-002.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "page": "1-52",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1195832",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "1. The Amateur Professional and the Professional Amateur"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400824670-003",
+        "ISBN": [
+          "9781400824670"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400824670-003",
+        "container-title": [
+          "Academic Instincts"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:42Z",
+          "timestamp": 1429620162000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T15:26:33Z",
+          "timestamp": 1495121193000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:00Z",
+          "timestamp": 1502313780058
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400824670/9781400824670-003/9781400824670-003.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1195833",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "2. Discipline Envy"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400824670-004",
+        "ISBN": [
+          "9781400824670"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400824670-004",
+        "container-title": [
+          "Academic Instincts"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:42Z",
+          "timestamp": 1429620162000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:47:55Z",
+          "timestamp": 1495126075000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:00Z",
+          "timestamp": 1502313780167
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400824670/9781400824670-004/9781400824670-004.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1195834",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "3. Terms of Art"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400824670-005",
+        "ISBN": [
+          "9781400824670"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400824670-005",
+        "container-title": [
+          "Academic Instincts"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:42Z",
+          "timestamp": 1429620162000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:39:45Z",
+          "timestamp": 1495125585000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:00Z",
+          "timestamp": 1502313780198
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400824670/9781400824670-005/9781400824670-005.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1195835",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.2307/j.ctt7s1cd.7",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Notes"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400824670-006",
+        "ISBN": [
+          "9781400824670"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400824670-006",
+        "container-title": [
+          "Academic Instincts"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:42Z",
+          "timestamp": 1429620162000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:47:55Z",
+          "timestamp": 1495126075000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:00Z",
+          "timestamp": 1502313780228
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400824670/9781400824670-006/9781400824670-006.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.2307/j.ctt7s1cd.8",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1195836",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Index"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400845453-005",
+        "ISBN": [
+          "9781400845453"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400845453-005",
+        "container-title": [
+          "Accelerating Democracy"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:47Z",
+          "timestamp": 1429620167000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:41:01Z",
+          "timestamp": 1495125661000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:03Z",
+          "timestamp": 1502313783610
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400845453/9781400845453-005/9781400845453-005.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1448120",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Chapter four. Unleashing Prediction Markets"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400845453-006",
+        "ISBN": [
+          "9781400845453"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400845453-006",
+        "container-title": [
+          "Accelerating Democracy"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:47Z",
+          "timestamp": 1429620167000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T15:34:15Z",
+          "timestamp": 1495121655000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:03Z",
+          "timestamp": 1502313783654
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400845453/9781400845453-006/9781400845453-006.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1448121",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Chapter five. Distributing Information through Dispersed Media and Campaigns"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400845453-007",
+        "ISBN": [
+          "9781400845453"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400845453-007",
+        "container-title": [
+          "Accelerating Democracy"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:47Z",
+          "timestamp": 1429620167000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:48:42Z",
+          "timestamp": 1495126122000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:03Z",
+          "timestamp": 1502313783680
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400845453/9781400845453-007/9781400845453-007.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1448122",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Chapter six. Accelerating AI"
+        ],
+        "type": "book-chapter"
+      },
+      {
+        "DOI": "10.1515/9781400845453-013",
+        "ISBN": [
+          "9781400845453"
+        ],
+        "URL": "http://dx.doi.org/10.1515/9781400845453-013",
+        "container-title": [
+          "Accelerating Democracy"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2015-04-21T12:42:47Z",
+          "timestamp": 1429620167000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              5,
+              18
+            ]
+          ],
+          "date-time": "2017-05-18T16:04:13Z",
+          "timestamp": 1495123453000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              9
+            ]
+          ],
+          "date-time": "2017-08-09T21:23:03Z",
+          "timestamp": 1502313783941
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        },
+        "link": [
+          {
+            "URL": "https://www.degruyter.com/view/books/9781400845453/9781400845453-013/9781400845453-013.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "member": "374",
+        "prefix": "10.1515",
+        "publisher": "Princeton University Press",
+        "publisher-location": "Princeton",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+          "is-identical-to": [
+            {
+              "asserted-by": "object",
+              "id": "10.2307/j.ctt1r2g54.15",
+              "id-type": "doi"
+            },
+            {
+              "asserted-by": "object",
+              "id": "10.1353/chapter.1448128",
+              "id-type": "doi"
+            }
+          ]
+        },
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "Appendix"
+        ],
+        "type": "book-chapter"
+      }
+    ],
+    "items-per-page": 20,
+    "query": {
+      "search-terms": null,
+      "start-index": 0
+    },
+    "total-results": 14173
+  },
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "status": "ok"
+}

@@ -1,0 +1,3188 @@
+{
+  "message": {
+    "facets": {},
+    "items": [
+      {
+        "DOI": "10.1016/j.riam.2017.02.003",
+        "ISSN": [
+          "1130-1406"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.riam.2017.02.003",
+        "alternative-id": [
+          "S113014061730013X"
+        ],
+        "assertion": [
+          {
+            "label": "This article is maintained by",
+            "name": "publisher",
+            "value": "Elsevier"
+          },
+          {
+            "label": "Article Title",
+            "name": "articletitle",
+            "value": "Erratum to \u201cEPICO 3.0. Empirical antifungal therapy in critically-ill hematology patients\u201d [Rev Iberoam Micol. 33 (4) (2016) 206\u2013215]"
+          },
+          {
+            "label": "Journal Title",
+            "name": "journaltitle",
+            "value": "Revista Iberoamericana de Micolog\u00eda"
+          },
+          {
+            "label": "CrossRef DOI link to publisher maintained version",
+            "name": "articlelink",
+            "value": "http://dx.doi.org/10.1016/j.riam.2017.02.003"
+          },
+          {
+            "label": "CrossRef DOI link to the associated document",
+            "name": "associatedlink",
+            "value": "http://dx.doi.org/10.1016/j.riam.2016.06.002"
+          },
+          {
+            "label": "Content Type",
+            "name": "content_type",
+            "value": "simple-article"
+          },
+          {
+            "label": "Copyright",
+            "name": "copyright"
+          }
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Llinares",
+            "given": "Pedro"
+          },
+          {
+            "affiliation": [],
+            "family": "Ruiz",
+            "given": "Isabel"
+          },
+          {
+            "affiliation": [],
+            "family": "Zaragoza",
+            "given": "Rafael"
+          },
+          {
+            "affiliation": [],
+            "family": "Ferrer",
+            "given": "Ricard"
+          },
+          {
+            "affiliation": [],
+            "family": "Rodr\u00edguez",
+            "given": "Alejandro H."
+          },
+          {
+            "affiliation": [],
+            "family": "Maseda",
+            "given": "Emilio"
+          },
+          {
+            "affiliation": [],
+            "family": "Grau",
+            "given": "Santiago"
+          }
+        ],
+        "container-title": [
+          "Revista Iberoamericana de Micolog\u00eda"
+        ],
+        "content-domain": {
+          "crossmark-restriction": true,
+          "domain": [
+            "clinicalkey.es",
+            "elsevier.es",
+            "elsevier.com",
+            "sciencedirect.com"
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2017-02-28T08:01:27Z",
+          "timestamp": 1488268887000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2017-04-05T07:51:36Z",
+          "timestamp": 1491378696000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2017-04-05T13:22:26Z",
+          "timestamp": 1491398546163
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1130-1406"
+          }
+        ],
+        "issue": "1",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              1
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2017-01-01T00:00:00Z",
+              "timestamp": 1483228800000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S113014061730013X?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S113014061730013X?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "62",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              1
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Revista Iberoamericana de Micolog\u00eda"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Microbiology",
+          "Infectious Diseases"
+        ],
+        "title": [
+          "Erratum to \u201cEPICO 3.0. Empirical antifungal therapy in critically-ill hematology patients\u201d [Rev Iberoam Micol. 33 (4) (2016) 206\u2013215]"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+        "update-to": [
+          {
+            "DOI": "10.1016/j.riam.2016.06.002",
+            "label": "Erratum",
+            "type": "erratum",
+            "updated": {
+              "date-parts": [
+                [
+                  2017,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2017-01-01T00:00:00Z",
+              "timestamp": 1483228800000
+            }
+          }
+        ],
+        "volume": "34"
+      },
+      {
+        "DOI": "10.1016/j.riam.2017.02.002",
+        "ISSN": [
+          "1130-1406"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.riam.2017.02.002",
+        "alternative-id": [
+          "S1130140617300116"
+        ],
+        "assertion": [
+          {
+            "label": "This article is maintained by",
+            "name": "publisher",
+            "value": "Elsevier"
+          },
+          {
+            "label": "Article Title",
+            "name": "articletitle",
+            "value": "Erratum to: \u201cEPICO 3.0. Recommendations on invasive candidiasis in patients with complicated intra-abdominal infection and surgical patients with ICU extended stay\u201d [Rev Iberoam Micol. 33 (4) (2016) 196\u2013205]"
+          },
+          {
+            "label": "Journal Title",
+            "name": "journaltitle",
+            "value": "Revista Iberoamericana de Micolog\u00eda"
+          },
+          {
+            "label": "CrossRef DOI link to publisher maintained version",
+            "name": "articlelink",
+            "value": "http://dx.doi.org/10.1016/j.riam.2017.02.002"
+          },
+          {
+            "label": "CrossRef DOI link to the associated document",
+            "name": "associatedlink",
+            "value": "http://dx.doi.org/10.1016/j.riam.2016.02.003"
+          },
+          {
+            "label": "Content Type",
+            "name": "content_type",
+            "value": "simple-article"
+          },
+          {
+            "label": "Copyright",
+            "name": "copyright"
+          }
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Maseda",
+            "given": "Emilio"
+          },
+          {
+            "affiliation": [],
+            "family": "Rodr\u00edguez",
+            "given": "Alejandro H."
+          },
+          {
+            "affiliation": [],
+            "family": "Aguilar",
+            "given": "Gerardo"
+          },
+          {
+            "affiliation": [],
+            "family": "Pem\u00e1n",
+            "given": "Javier"
+          },
+          {
+            "affiliation": [],
+            "family": "Zaragoza",
+            "given": "Rafael"
+          },
+          {
+            "affiliation": [],
+            "family": "Ferrer",
+            "given": "Ricard"
+          },
+          {
+            "affiliation": [],
+            "family": "Llinares",
+            "given": "Pedro"
+          },
+          {
+            "affiliation": [],
+            "family": "Grau",
+            "given": "Santiago"
+          }
+        ],
+        "container-title": [
+          "Revista Iberoamericana de Micolog\u00eda"
+        ],
+        "content-domain": {
+          "crossmark-restriction": true,
+          "domain": [
+            "clinicalkey.es",
+            "elsevier.es",
+            "elsevier.com",
+            "sciencedirect.com"
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2017-02-28T08:00:45Z",
+          "timestamp": 1488268845000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2017-04-05T07:51:20Z",
+          "timestamp": 1491378680000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2017-04-05T13:22:29Z",
+          "timestamp": 1491398549589
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1130-1406"
+          }
+        ],
+        "issue": "1",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              1
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2017-01-01T00:00:00Z",
+              "timestamp": 1483228800000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1130140617300116?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1130140617300116?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "61",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              1
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Revista Iberoamericana de Micolog\u00eda"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Microbiology",
+          "Infectious Diseases"
+        ],
+        "title": [
+          "Erratum to: \u201cEPICO 3.0. Recommendations on invasive candidiasis in patients with complicated intra-abdominal infection and surgical patients with ICU extended stay\u201d [Rev Iberoam Micol. 33 (4) (2016) 196\u2013205]"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+        "update-to": [
+          {
+            "DOI": "10.1016/j.riam.2016.02.003",
+            "label": "Erratum",
+            "type": "erratum",
+            "updated": {
+              "date-parts": [
+                [
+                  2017,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2017-01-01T00:00:00Z",
+              "timestamp": 1483228800000
+            }
+          }
+        ],
+        "volume": "34"
+      },
+      {
+        "DOI": "10.1016/j.riam.2017.02.001",
+        "ISSN": [
+          "1130-1406"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.riam.2017.02.001",
+        "alternative-id": [
+          "S1130140617300098"
+        ],
+        "assertion": [
+          {
+            "label": "This article is maintained by",
+            "name": "publisher",
+            "value": "Elsevier"
+          },
+          {
+            "label": "Article Title",
+            "name": "articletitle",
+            "value": "Erratum to: \u201cEPICO 3.0. Antifungal prophylaxis in solid organ transplant recipients\u201d [Rev Iberoam Micol. 33 (4) (2016) 187\u2013195]"
+          },
+          {
+            "label": "Journal Title",
+            "name": "journaltitle",
+            "value": "Revista Iberoamericana de Micolog\u00eda"
+          },
+          {
+            "label": "CrossRef DOI link to publisher maintained version",
+            "name": "articlelink",
+            "value": "http://dx.doi.org/10.1016/j.riam.2017.02.001"
+          },
+          {
+            "label": "CrossRef DOI link to the associated document",
+            "name": "associatedlink",
+            "value": "http://dx.doi.org/10.1016/j.riam.2016.02.001"
+          },
+          {
+            "label": "Content Type",
+            "name": "content_type",
+            "value": "simple-article"
+          },
+          {
+            "label": "Copyright",
+            "name": "copyright"
+          }
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Zaragoza",
+            "given": "Rafael"
+          },
+          {
+            "affiliation": [],
+            "family": "Aguado",
+            "given": "Jos\u00e9 Mar\u00eda"
+          },
+          {
+            "affiliation": [],
+            "family": "Ferrer",
+            "given": "Ricard"
+          },
+          {
+            "affiliation": [],
+            "family": "Rodr\u00edguez",
+            "given": "Alejandro H."
+          },
+          {
+            "affiliation": [],
+            "family": "Maseda",
+            "given": "Emilio"
+          },
+          {
+            "affiliation": [],
+            "family": "Llinares",
+            "given": "Pedro"
+          },
+          {
+            "affiliation": [],
+            "family": "Grau",
+            "given": "Santiago"
+          },
+          {
+            "affiliation": [],
+            "family": "Mu\u00f1oz",
+            "given": "Patricia"
+          },
+          {
+            "affiliation": [],
+            "family": "Fort\u00fan",
+            "given": "Jes\u00fas"
+          },
+          {
+            "affiliation": [],
+            "family": "Bouzada",
+            "given": "Mercedes"
+          },
+          {
+            "affiliation": [],
+            "family": "del Pozo",
+            "given": "Juan Carlos"
+          },
+          {
+            "affiliation": [],
+            "family": "Le\u00f3n",
+            "given": "Rafael"
+          }
+        ],
+        "container-title": [
+          "Revista Iberoamericana de Micolog\u00eda"
+        ],
+        "content-domain": {
+          "crossmark-restriction": true,
+          "domain": [
+            "clinicalkey.es",
+            "elsevier.es",
+            "elsevier.com",
+            "sciencedirect.com"
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              28
+            ]
+          ],
+          "date-time": "2017-02-28T08:01:22Z",
+          "timestamp": 1488268882000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2017-04-05T07:49:57Z",
+          "timestamp": 1491378597000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2017-04-05T13:22:29Z",
+          "timestamp": 1491398549859
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1130-1406"
+          }
+        ],
+        "issue": "1",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              1
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2017-01-01T00:00:00Z",
+              "timestamp": 1483228800000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1130140617300098?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1130140617300098?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "60",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              1
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Revista Iberoamericana de Micolog\u00eda"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Microbiology",
+          "Infectious Diseases"
+        ],
+        "title": [
+          "Erratum to: \u201cEPICO 3.0. Antifungal prophylaxis in solid organ transplant recipients\u201d [Rev Iberoam Micol. 33 (4) (2016) 187\u2013195]"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+        "update-to": [
+          {
+            "DOI": "10.1016/j.riam.2016.02.001",
+            "label": "Erratum",
+            "type": "erratum",
+            "updated": {
+              "date-parts": [
+                [
+                  2017,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2017-01-01T00:00:00Z",
+              "timestamp": 1483228800000
+            }
+          }
+        ],
+        "volume": "34"
+      },
+      {
+        "DOI": "10.1128/cvi.00539-16",
+        "ISSN": [
+          "1556-6811",
+          "1556-679X"
+        ],
+        "URL": "http://dx.doi.org/10.1128/cvi.00539-16",
+        "abstract": "<jats:title>ABSTRACT</jats:title>\n          <jats:p>\n            Malaria is caused by parasites of the genus\n            <jats:named-content content-type=\"genus-species\">Plasmodium</jats:named-content>\n            , which are transmitted to humans by the bites of\n            <jats:named-content content-type=\"genus-species\">Anopheles</jats:named-content>\n            mosquitoes. After the elimination of\n            <jats:named-content content-type=\"genus-species\">Plasmodium falciparum</jats:named-content>\n            , it is predicted that\n            <jats:named-content content-type=\"genus-species\">Plasmodium vivax</jats:named-content>\n            will remain an important cause of morbidity and mortality outside Africa, stressing the importance of developing a vaccine against\n            <jats:named-content content-type=\"genus-species\">P. vivax</jats:named-content>\n            malaria. In this study, we assessed the immunogenicity and protective efficacy of two\n            <jats:named-content content-type=\"genus-species\">P. vivax</jats:named-content>\n            antigens, apical membrane antigen 1 (AMA1) and the 42-kDa C-terminal fragment of merozoite surface protein 1 (MSP1\n            <jats:sub>42</jats:sub>\n            ) in a plasmid recombinant DNA prime/adenoviral (Ad) vector boost regimen in\n            <jats:named-content content-type=\"genus-species\">Aotus</jats:named-content>\n            monkeys. Groups of 4 to 5 monkeys were immunized with plasmid DNA alone, Ad alone, prime/boost regimens with each antigen, prime/boost regimens with both antigens, and empty vector controls and then subjected to blood-stage challenge. The heterologous immunization regimen with the antigen pair was more protective than either antigen alone or both antigens delivered with a single vaccine platform, on the basis of their ability to induce the longest prepatent period and the longest time to the peak level of parasitemia, the lowest peak and mean levels of parasitemia, the smallest area under the parasitemia curve, and the highest self-cure rate. Overall, prechallenge MSP1\n            <jats:sub>42</jats:sub>\n            antibody titers strongly correlated with a decreased parasite burden. Nevertheless, a significant proportion of immunized animals developed anemia. In conclusion, the\n            <jats:named-content content-type=\"genus-species\">P. vivax</jats:named-content>\n            plasmid DNA/Ad serotype 5 vaccine encoding blood-stage parasite antigens AMA1 and MSP1\n            <jats:sub>42</jats:sub>\n            in a heterologous prime/boost immunization regimen provided significant protection against blood-stage challenge in\n            <jats:named-content content-type=\"genus-species\">Aotus</jats:named-content>\n            monkeys, indicating the suitability of these antigens and this regimen for further development.\n          </jats:p>",
+        "alternative-id": [
+          "10.1128/CVI.00539-16"
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Obaldia",
+            "given": "Nicanor",
+            "suffix": "III"
+          },
+          {
+            "affiliation": [],
+            "family": "Stockelman",
+            "given": "Michael G."
+          },
+          {
+            "affiliation": [],
+            "family": "Otero",
+            "given": "William"
+          },
+          {
+            "affiliation": [],
+            "family": "Cockrill",
+            "given": "Jennifer A."
+          },
+          {
+            "affiliation": [],
+            "family": "Ganeshan",
+            "given": "Harini"
+          },
+          {
+            "affiliation": [],
+            "family": "Abot",
+            "given": "Esteban N."
+          },
+          {
+            "affiliation": [],
+            "family": "Zhang",
+            "given": "Jianfeng"
+          },
+          {
+            "affiliation": [],
+            "family": "Limbach",
+            "given": "Keith"
+          },
+          {
+            "affiliation": [],
+            "family": "Charoenvit",
+            "given": "Yupin"
+          },
+          {
+            "affiliation": [],
+            "family": "Doolan",
+            "given": "Denise L."
+          },
+          {
+            "affiliation": [],
+            "family": "Tang",
+            "given": "De-chu C."
+          },
+          {
+            "affiliation": [],
+            "family": "Richie",
+            "given": "Thomas L."
+          }
+        ],
+        "container-title": [
+          "Clinical and Vaccine Immunology"
+        ],
+        "content-domain": {
+          "crossmark-restriction": true,
+          "domain": [
+            "asm.org"
+          ]
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              9
+            ]
+          ],
+          "date-time": "2017-02-09T01:50:25Z",
+          "timestamp": 1486605025000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2017-04-05T20:26:22Z",
+          "timestamp": 1491423982000
+        },
+        "editor": [
+          {
+            "affiliation": [],
+            "family": "Pascual",
+            "given": "David W."
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              5
+            ]
+          ],
+          "date-time": "2017-04-05T20:43:50Z",
+          "timestamp": 1491425030137
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1556-6811"
+          },
+          {
+            "type": "electronic",
+            "value": "1556-679X"
+          }
+        ],
+        "issue": "4",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              8
+            ]
+          ]
+        },
+        "member": "235",
+        "page": "e00539-16",
+        "prefix": "10.1128",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              2,
+              8
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "publisher": "American Society for Microbiology",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Clin. Vaccine Immunol."
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Immunology",
+          "Immunology and Allergy",
+          "Microbiology (medical)",
+          "Clinical Biochemistry"
+        ],
+        "title": [
+          "\n            A Plasmodium vivax Plasmid DNA- and Adenovirus-Vectored Malaria Vaccine Encoding Blood-Stage Antigens AMA1 and MSP1\n            42\n            in a Prime/Boost Heterologous Immunization Regimen Partially Protects Aotus Monkeys against Blood-Stage Challenge\n          "
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1128/asmj-crossmark-policy-page",
+        "volume": "24"
+      },
+      {
+        "DOI": "10.1159/000353365",
+        "ISSN": [
+          "1421-9751",
+          "0008-6312"
+        ],
+        "URL": "http://dx.doi.org/10.1159/000353365",
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Li",
+            "given": "Qin"
+          },
+          {
+            "affiliation": [],
+            "family": "Goodman",
+            "given": "Shaun G."
+          },
+          {
+            "affiliation": [],
+            "family": "Yan",
+            "given": "Raymond T."
+          },
+          {
+            "affiliation": [],
+            "family": "Gore",
+            "given": "Joel M."
+          },
+          {
+            "affiliation": [],
+            "family": "Polasek",
+            "given": "Petr"
+          },
+          {
+            "affiliation": [],
+            "family": "Lai",
+            "given": "Kevin"
+          },
+          {
+            "affiliation": [],
+            "family": "Baer",
+            "given": "Carolyn"
+          },
+          {
+            "affiliation": [],
+            "family": "Goldberg",
+            "given": "Robert J."
+          },
+          {
+            "affiliation": [],
+            "family": "Pinter",
+            "given": "Arnold"
+          },
+          {
+            "affiliation": [],
+            "family": "Ahmad",
+            "given": "Kamran"
+          },
+          {
+            "affiliation": [],
+            "family": "Kornder",
+            "given": "Jan M."
+          },
+          {
+            "affiliation": [],
+            "family": "Yan",
+            "given": "Andrew T."
+          }
+        ],
+        "container-title": [
+          "Cardiology"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              7,
+              11
+            ]
+          ],
+          "date-time": "2013-07-11T07:02:39Z",
+          "timestamp": 1373526159000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              30
+            ]
+          ],
+          "date-time": "2016-10-30T14:36:43Z",
+          "timestamp": 1477838203000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              6
+            ]
+          ],
+          "date-time": "2017-04-06T08:16:50Z",
+          "timestamp": 1491466610293
+        },
+        "is-referenced-by-count": 5,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0008-6312"
+          },
+          {
+            "type": "electronic",
+            "value": "1421-9751"
+          }
+        ],
+        "issue": "1",
+        "issued": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "member": "127",
+        "page": "27-34",
+        "prefix": "10.1159",
+        "published-print": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "publisher": "S. Karger AG",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Cardiology"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Pharmacology (medical)",
+          "Cardiology and Cardiovascular Medicine"
+        ],
+        "title": [
+          "Pre-Hospital Cardiac Arrest in Acute Coronary Syndromes: Insights from the Global Registry of Acute Coronary Events and the Canadian Registry of Acute Coronary Events"
+        ],
+        "type": "journal-article",
+        "volume": "126"
+      },
+      {
+        "DOI": "10.1016/s2214-109x(17)30118-3",
+        "ISSN": [
+          "2214-109X"
+        ],
+        "URL": "http://dx.doi.org/10.1016/s2214-109x(17)30118-3",
+        "alternative-id": [
+          "S2214109X17301183"
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Bangura",
+            "given": "Sheriff L"
+          },
+          {
+            "affiliation": [],
+            "family": "Hann",
+            "given": "Katrina"
+          },
+          {
+            "affiliation": [],
+            "family": "Salvi",
+            "given": "Ameet"
+          },
+          {
+            "affiliation": [],
+            "family": "Kahn",
+            "given": "Rebecca"
+          },
+          {
+            "affiliation": [],
+            "family": "Dierberg",
+            "given": "Kerry L"
+          },
+          {
+            "affiliation": [],
+            "family": "Gassimu",
+            "given": "Joseph"
+          },
+          {
+            "affiliation": [],
+            "family": "Kabbah",
+            "given": "Alpha"
+          },
+          {
+            "affiliation": [],
+            "family": "Marsh",
+            "given": "Regan H"
+          }
+        ],
+        "container-title": [
+          "The Lancet Global Health"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T02:24:02Z",
+          "timestamp": 1491531842000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T02:24:02Z",
+          "timestamp": 1491531842000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T02:42:23Z",
+          "timestamp": 1491532943189
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "2214-109X"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2017-04-01T00:00:00Z",
+              "timestamp": 1491004800000
+            }
+          },
+          {
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "content-version": "vor",
+            "delay-in-days": 5,
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  6
+                ]
+              ],
+              "date-time": "2017-04-06T00:00:00Z",
+              "timestamp": 1491436800000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S2214109X17301183?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S2214109X17301183?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "S11",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "The Lancet Global Health"
+        ],
+        "source": "Crossref",
+        "title": [
+          "Strengthening the Free Healthcare Initiative through a pharmacy and supply chain intervention: Partners in Health's experience in rural Sierra Leone"
+        ],
+        "type": "journal-article",
+        "volume": "5"
+      },
+      {
+        "DOI": "10.1103/physrevapplied.7.044003",
+        "ISSN": [
+          "2331-7019"
+        ],
+        "URL": "http://dx.doi.org/10.1103/physrevapplied.7.044003",
+        "article-number": "044003",
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Zheng",
+            "given": "X.\u2009L."
+          },
+          {
+            "affiliation": [],
+            "family": "Zou",
+            "given": "L.\u2009K."
+          },
+          {
+            "affiliation": [],
+            "family": "Zhang",
+            "given": "Y."
+          },
+          {
+            "affiliation": [],
+            "family": "Cai",
+            "given": "J.\u2009W."
+          }
+        ],
+        "container-title": [
+          "Physical Review Applied"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T02:21:49Z",
+          "timestamp": 1491531709000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T02:23:11Z",
+          "timestamp": 1491531791000
+        },
+        "funder": [
+          {
+            "DOI": "10.13039/501100001809",
+            "award": [
+              "51371191",
+              "51431009"
+            ],
+            "doi-asserted-by": "publisher",
+            "name": "National Natural Science Foundation of China"
+          },
+          {
+            "award": [
+              "2016YFA0300804"
+            ],
+            "name": "National Key Research and Development Program of China"
+          },
+          {
+            "award": [
+              "2015CB921403"
+            ],
+            "name": "National Basic Research Program of China"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T02:42:23Z",
+          "timestamp": 1491532943801
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "2331-7019"
+          }
+        ],
+        "issue": "4",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              6
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://link.aps.org/licenses/aps-default-license",
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  6
+                ]
+              ],
+              "date-time": "2017-04-06T00:00:00Z",
+              "timestamp": 1491436800000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://link.aps.org/article/10.1103/PhysRevApplied.7.044003",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "syndication"
+          }
+        ],
+        "member": "16",
+        "prefix": "10.1103",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              6
+            ]
+          ]
+        },
+        "publisher": "American Physical Society (APS)",
+        "reference": [
+          {
+            "DOI": "10.1038/nature04937",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc1R1"
+          },
+          {
+            "DOI": "10.1038/nmat4059",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc2R1"
+          },
+          {
+            "DOI": "10.1088/0022-3727/47/42/422001",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc3R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.88.117601",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc4R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.107.066604",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc5R1"
+          },
+          {
+            "DOI": "10.1063/1.4863751",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc6R1"
+          },
+          {
+            "DOI": "10.1038/nmat3301",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc7R1"
+          },
+          {
+            "DOI": "10.1038/nature07321",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc8R1"
+          },
+          {
+            "DOI": "10.1038/nmat2856",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc9R1"
+          },
+          {
+            "DOI": "10.1038/nmat2860",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc10R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.107.216604",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc11R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.109.196602",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc12R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.88.184425",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc13R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.111.187201",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc14R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.89.094409",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc15R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.94.144423",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc16R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.109.107204",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc17R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.110.147207",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc18R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.110.067207",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc19R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.110.067206",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc20R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.93.014422",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc21R1"
+          },
+          {
+            "DOI": "10.1088/0953-8984/26/34/343202",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc22R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.111.066602",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc23R1"
+          },
+          {
+            "DOI": "10.1063/1.4895034",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc24R1"
+          },
+          {
+            "DOI": "10.1016/0370-1573(93)90107-O",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc25R1"
+          },
+          {
+            "DOI": "10.1038/nphys3347",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc26R1"
+          },
+          {
+            "DOI": "10.1063/1.4921927",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc27R1"
+          },
+          {
+            "DOI": "10.1063/1.331977",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc28R1"
+          },
+          {
+            "DOI": "10.1109/TMAG.1984.1063456",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc29R1"
+          },
+          {
+            "DOI": "10.1103/PhysRev.102.1413",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc30R1"
+          },
+          {
+            "DOI": "10.1016/S0304-8853(98)00266-2",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc31R1"
+          },
+          {
+            "author": "R. Coehoorn",
+            "key": "PhysRevApplied.7.044003Cc32R1",
+            "volume-title": "Handbook of Magnetic Materials",
+            "year": "2003"
+          },
+          {
+            "DOI": "10.1109/JPROC.2003.811807",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc33R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.116.077203",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc34R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.92.144405",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc35R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.113.196602",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc36R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.89.140406",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc37R1"
+          },
+          {
+            "author": "D.\u2009E. B\u00fcrgler",
+            "key": "PhysRevApplied.7.044003Cc38R1",
+            "volume-title": "Handbook of Magnetic Materials",
+            "year": "2003"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.89.140407",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc39R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.112.197201",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc40R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.92.247201",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc41R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevB.88.094410",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc42R1"
+          },
+          {
+            "DOI": "10.1103/PhysRevLett.110.217602",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc43R1"
+          },
+          {
+            "DOI": "10.1063/1.4799492",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc44R1"
+          },
+          {
+            "DOI": "10.1103/RevModPhys.82.1539",
+            "doi-asserted-by": null,
+            "key": "PhysRevApplied.7.044003Cc45R1"
+          }
+        ],
+        "reference-count": 45,
+        "references-count": 45,
+        "relation": {
+          "cites": []
+        },
+        "score": 1.0,
+        "short-container-title": [
+          "Phys. Rev. Applied"
+        ],
+        "source": "Crossref",
+        "title": [
+          "Large Inverse Spin Hall Effect in Co-Pt Spin-Valve Heterostructures"
+        ],
+        "type": "journal-article",
+        "volume": "7"
+      },
+      {
+        "DOI": "10.1007/978-3-319-55762-5",
+        "ISBN": [
+          "978-3-319-55761-8",
+          "978-3-319-55762-5"
+        ],
+        "URL": "http://dx.doi.org/10.1007/978-3-319-55762-5",
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:29:36Z",
+          "timestamp": 1491546576000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:29:36Z",
+          "timestamp": 1491546576000
+        },
+        "editor": [
+          {
+            "affiliation": [],
+            "family": "Resch",
+            "given": "Michael M."
+          },
+          {
+            "affiliation": [],
+            "family": "Kaminski",
+            "given": "Andreas"
+          },
+          {
+            "affiliation": [],
+            "family": "Gehring",
+            "given": "Petra"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T07:12:30Z",
+          "timestamp": 1491549150848
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.springer.com/tdm",
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2017-01-01T00:00:00Z",
+              "timestamp": 1483228800000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-3-319-55762-5.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "297",
+        "prefix": "10.1007",
+        "published-print": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "publisher": "Springer International Publishing",
+        "publisher-location": "Cham",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "source": "Crossref",
+        "title": [
+          "The Science and Art of Simulation I"
+        ],
+        "type": "book"
+      },
+      {
+        "DOI": "10.21506/j.ponte.2017.3.13",
+        "URL": "http://dx.doi.org/10.21506/j.ponte.2017.3.13",
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Julia",
+            "given": "Dr."
+          },
+          {
+            "affiliation": [],
+            "family": "Rohidi",
+            "given": "Tjetjep Rohendi"
+          },
+          {
+            "affiliation": [],
+            "family": "F.",
+            "given": "Totok Sumaryanto"
+          },
+          {
+            "affiliation": [],
+            "family": "Herdini",
+            "given": "Heri"
+          }
+        ],
+        "container-title": [
+          "PONTE International Scientific Researchs Journal"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:29:53Z",
+          "timestamp": 1491546593000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:29:54Z",
+          "timestamp": 1491546594000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T07:12:33Z",
+          "timestamp": 1491549153430
+        },
+        "is-referenced-by-count": 0,
+        "issue": "3",
+        "issued": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "member": "8951",
+        "prefix": "10.21506",
+        "published-online": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "publisher": "Ponte Academic Journal",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Ponte"
+        ],
+        "source": "Crossref",
+        "title": [
+          "THE FORMATION OF INDIVIDUAL MUSIC STYLE  OF KACAPI INDUNG ACCOMPANIMENT MUSIC IN TEMBANG SUNDA CIANJURAN IN INDONESIA"
+        ],
+        "type": "journal-article",
+        "volume": "73"
+      },
+      {
+        "DOI": "10.1002/ijgo.2017.137.issue-2",
+        "ISSN": [
+          "0020-7292"
+        ],
+        "URL": "http://dx.doi.org/10.1002/ijgo.2017.137.issue-2",
+        "container-title": [
+          "International Journal of Gynecology & Obstetrics"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:30:30Z",
+          "timestamp": 1491546630000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:30:30Z",
+          "timestamp": 1491546630000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T07:12:33Z",
+          "timestamp": 1491549153983
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0020-7292"
+          }
+        ],
+        "issue": "2",
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              5
+            ]
+          ]
+        },
+        "member": "311",
+        "prefix": "10.1002",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              5
+            ]
+          ]
+        },
+        "publisher": "Wiley-Blackwell",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Int J Gynecol Obstet"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Obstetrics and Gynaecology"
+        ],
+        "type": "journal-issue",
+        "volume": "137"
+      },
+      {
+        "DOI": "10.1111/epi.2017.58.issue-s1",
+        "ISSN": [
+          "0013-9580"
+        ],
+        "URL": "http://dx.doi.org/10.1111/epi.2017.58.issue-s1",
+        "container-title": [
+          "Epilepsia"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:55:24Z",
+          "timestamp": 1491548124000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:55:24Z",
+          "timestamp": 1491548124000
+        },
+        "editor": [
+          {
+            "affiliation": [],
+            "family": "Cukiert",
+            "given": "Arthur"
+          },
+          {
+            "affiliation": [],
+            "family": "Rydenhag",
+            "given": "Bertil"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T07:12:34Z",
+          "timestamp": 1491549154003
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0013-9580"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "member": "311",
+        "prefix": "10.1111",
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "publisher": "Wiley-Blackwell",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Epilepsia"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Neurology",
+          "Clinical Neurology"
+        ],
+        "type": "journal-issue",
+        "volume": "58"
+      },
+      {
+        "DOI": "10.9727/jmsk.2016.29.4.",
+        "ISSN": [
+          "1225-309X",
+          "2288-7172"
+        ],
+        "URL": "http://dx.doi.org/10.9727/jmsk.2016.29.4.",
+        "container-title": [
+          "Journal of the mineralogical society of korea"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:28:29Z",
+          "timestamp": 1491546509000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T06:28:29Z",
+          "timestamp": 1491546509000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T07:12:34Z",
+          "timestamp": 1491549154124
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1225-309X"
+          },
+          {
+            "type": "electronic",
+            "value": "2288-7172"
+          }
+        ],
+        "issue": "4",
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              30
+            ]
+          ]
+        },
+        "member": "4670",
+        "prefix": "10.9727",
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              12,
+              30
+            ]
+          ]
+        },
+        "publisher": "The Mineralogical Society of Korea",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "J. Miner. Soc. Korea"
+        ],
+        "source": "Crossref",
+        "type": "journal-issue",
+        "volume": "29"
+      },
+      {
+        "DOI": "10.2495/d&ne-v3-n3",
+        "ISSN": [
+          "1755-7437",
+          "1755-7445"
+        ],
+        "URL": "http://dx.doi.org/10.2495/d&ne-v3-n3",
+        "container-title": [
+          "International Journal of Design & Nature and Ecodynamics"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2014-11-04T15:43:21Z",
+          "timestamp": 1415115801000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2014,
+              11,
+              4
+            ]
+          ],
+          "date-time": "2014-11-04T15:43:21Z",
+          "timestamp": 1415115801000
+        },
+        "editor": [
+          {
+            "affiliation": [],
+            "family": "Atherton",
+            "given": "M"
+          },
+          {
+            "affiliation": [],
+            "family": "Brebbia",
+            "given": "C A"
+          },
+          {
+            "affiliation": [],
+            "family": "Bryant",
+            "given": "J A"
+          },
+          {
+            "affiliation": [],
+            "family": "Burgess",
+            "given": "S C"
+          },
+          {
+            "affiliation": [],
+            "family": "Chon",
+            "given": "T"
+          },
+          {
+            "affiliation": [],
+            "family": "J\u00f8rgensen",
+            "given": "S E"
+          },
+          {
+            "affiliation": [],
+            "family": "Patten",
+            "given": "B"
+          },
+          {
+            "affiliation": [],
+            "family": "Tiezzi",
+            "given": "E"
+          },
+          {
+            "affiliation": [],
+            "family": "Ulanowicz",
+            "given": "R E"
+          }
+        ],
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T17:40:52Z",
+          "timestamp": 1491586852196
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1755-7437"
+          },
+          {
+            "type": "electronic",
+            "value": "1755-7445"
+          }
+        ],
+        "issue": "3",
+        "issued": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "member": "1349",
+        "prefix": "10.2495",
+        "published-print": {
+          "date-parts": [
+            [
+              2008
+            ]
+          ]
+        },
+        "publisher": "WITPRESS LTD.",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Int. J. DNE"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Engineering(all)",
+          "Agricultural and Biological Sciences(all)",
+          "Environmental Science(all)"
+        ],
+        "type": "journal-issue",
+        "volume": "3"
+      },
+      {
+        "DOI": "10.1016/j.medpal.2008.04.003",
+        "ISSN": [
+          "1636-6522"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.medpal.2008.04.003",
+        "alternative-id": [
+          "S1636652208001414"
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Viallard",
+            "given": "Marcel-Louis"
+          }
+        ],
+        "container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              5
+            ]
+          ],
+          "date-time": "2008-06-05T12:48:32Z",
+          "timestamp": 1212670112000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              8
+            ]
+          ],
+          "date-time": "2015-12-08T17:39:52Z",
+          "timestamp": 1449596392000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T20:40:11Z",
+          "timestamp": 1491597611225
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1636-6522"
+          }
+        ],
+        "issue": "6",
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              12
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2008,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2008-12-01T00:00:00Z",
+              "timestamp": 1228089600000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001414?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001414?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "341",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              12
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Anesthesiology and Pain Medicine",
+          "Oncology(nursing)",
+          "Oncology"
+        ],
+        "title": [
+          ""
+        ],
+        "type": "journal-article",
+        "volume": "7"
+      },
+      {
+        "DOI": "10.1016/j.medpal.2008.04.004",
+        "ISSN": [
+          "1636-6522"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.medpal.2008.04.004",
+        "alternative-id": [
+          "S1636652208001426"
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Viallard",
+            "given": "Marcel-Louis"
+          }
+        ],
+        "container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              5
+            ]
+          ],
+          "date-time": "2008-06-05T12:48:32Z",
+          "timestamp": 1212670112000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              8
+            ]
+          ],
+          "date-time": "2015-12-08T17:39:52Z",
+          "timestamp": 1449596392000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T20:40:11Z",
+          "timestamp": 1491597611225
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1636-6522"
+          }
+        ],
+        "issue": "6",
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              12
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2008,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2008-12-01T00:00:00Z",
+              "timestamp": 1228089600000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001426?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001426?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "341",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              12
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Anesthesiology and Pain Medicine",
+          "Oncology(nursing)",
+          "Oncology"
+        ],
+        "title": [
+          ""
+        ],
+        "type": "journal-article",
+        "volume": "7"
+      },
+      {
+        "DOI": "10.1016/j.medpal.2008.04.005",
+        "ISSN": [
+          "1636-6522"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.medpal.2008.04.005",
+        "alternative-id": [
+          "S1636652208001438"
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Viallard",
+            "given": "Marcel-Louis"
+          }
+        ],
+        "container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              5
+            ]
+          ],
+          "date-time": "2008-06-05T12:48:32Z",
+          "timestamp": 1212670112000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              8
+            ]
+          ],
+          "date-time": "2015-12-08T17:39:52Z",
+          "timestamp": 1449596392000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T20:40:11Z",
+          "timestamp": 1491597611225
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1636-6522"
+          }
+        ],
+        "issue": "6",
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              12
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2008,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2008-12-01T00:00:00Z",
+              "timestamp": 1228089600000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001438?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001438?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "341",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              12
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Anesthesiology and Pain Medicine",
+          "Oncology(nursing)",
+          "Oncology"
+        ],
+        "title": [
+          ""
+        ],
+        "type": "journal-article",
+        "volume": "7"
+      },
+      {
+        "DOI": "10.1016/j.medpal.2008.04.007",
+        "ISSN": [
+          "1636-6522"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.medpal.2008.04.007",
+        "alternative-id": [
+          "S1636652208001451"
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Viallard",
+            "given": "Marcel-Louis"
+          }
+        ],
+        "container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              5
+            ]
+          ],
+          "date-time": "2008-06-05T12:48:32Z",
+          "timestamp": 1212670112000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              8
+            ]
+          ],
+          "date-time": "2015-12-08T17:39:52Z",
+          "timestamp": 1449596392000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T20:40:11Z",
+          "timestamp": 1491597611227
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1636-6522"
+          }
+        ],
+        "issue": "5",
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2008,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2008-10-01T00:00:00Z",
+              "timestamp": 1222819200000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001451?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001451?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "290",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Anesthesiology and Pain Medicine",
+          "Oncology(nursing)",
+          "Oncology"
+        ],
+        "title": [
+          ""
+        ],
+        "type": "journal-article",
+        "volume": "7"
+      },
+      {
+        "DOI": "10.1016/j.medpal.2008.04.014",
+        "ISSN": [
+          "1636-6522"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.medpal.2008.04.014",
+        "alternative-id": [
+          "S1636652208001529"
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Viallard",
+            "given": "Marcel-Louis"
+          }
+        ],
+        "container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              6
+            ]
+          ],
+          "date-time": "2008-06-06T08:59:34Z",
+          "timestamp": 1212742774000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              8
+            ]
+          ],
+          "date-time": "2015-12-08T18:01:23Z",
+          "timestamp": 1449597683000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T20:40:11Z",
+          "timestamp": 1491597611236
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1636-6522"
+          }
+        ],
+        "issue": "5",
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2008,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2008-10-01T00:00:00Z",
+              "timestamp": 1222819200000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001529?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S1636652208001529?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "292",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              10
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "M\u00e9decine Palliative : Soins de Support - Accompagnement - \u00c9thique"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Anesthesiology and Pain Medicine",
+          "Oncology(nursing)",
+          "Oncology"
+        ],
+        "title": [
+          ""
+        ],
+        "type": "journal-article",
+        "volume": "7"
+      },
+      {
+        "DOI": "10.1016/j.urology.2008.05.001",
+        "ISSN": [
+          "0090-4295"
+        ],
+        "URL": "http://dx.doi.org/10.1016/j.urology.2008.05.001",
+        "alternative-id": [
+          "S0090429508005499"
+        ],
+        "container-title": [
+          "Urology"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              6
+            ]
+          ],
+          "date-time": "2008-06-06T08:30:04Z",
+          "timestamp": 1212741004000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              8
+            ]
+          ],
+          "date-time": "2015-12-08T17:40:35Z",
+          "timestamp": 1449596435000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T20:40:11Z",
+          "timestamp": 1491597611259
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0090-4295"
+          }
+        ],
+        "issue": "6",
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              6
+            ]
+          ]
+        },
+        "license": [
+          {
+            "URL": "http://www.elsevier.com/tdm/userlicense/1.0/",
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "start": {
+              "date-parts": [
+                [
+                  2008,
+                  6,
+                  1
+                ]
+              ],
+              "date-time": "2008-06-01T00:00:00Z",
+              "timestamp": 1212278400000
+            }
+          }
+        ],
+        "link": [
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S0090429508005499?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://api.elsevier.com/content/article/PII:S0090429508005499?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "member": "78",
+        "page": "1234",
+        "prefix": "10.1016",
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              6
+            ]
+          ]
+        },
+        "publisher": "Elsevier BV",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Urology"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Urology"
+        ],
+        "title": [
+          "Erratum"
+        ],
+        "type": "journal-article",
+        "volume": "71"
+      },
+      {
+        "DOI": "10.1098/rsif.2008.0169",
+        "ISSN": [
+          "1742-5689",
+          "1742-5662"
+        ],
+        "URL": "http://dx.doi.org/10.1098/rsif.2008.0169",
+        "alternative-id": [
+          "E4038745J7868020"
+        ],
+        "author": [
+          {
+            "affiliation": [],
+            "family": "Sedgwick",
+            "given": "H."
+          },
+          {
+            "affiliation": [],
+            "family": "Caron",
+            "given": "F."
+          },
+          {
+            "affiliation": [],
+            "family": "Monaghan",
+            "given": "P.B."
+          },
+          {
+            "affiliation": [],
+            "family": "Kolch",
+            "given": "W."
+          },
+          {
+            "affiliation": [],
+            "family": "Cooper",
+            "given": "J.M."
+          }
+        ],
+        "container-title": [
+          "Journal of The Royal Society Interface"
+        ],
+        "content-domain": {
+          "crossmark-restriction": false,
+          "domain": []
+        },
+        "created": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              6
+            ]
+          ],
+          "date-time": "2008-06-06T01:03:24Z",
+          "timestamp": 1212714204000
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              10
+            ]
+          ],
+          "date-time": "2015-04-10T00:18:34Z",
+          "timestamp": 1428625114000
+        },
+        "indexed": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              7
+            ]
+          ],
+          "date-time": "2017-04-07T20:40:21Z",
+          "timestamp": 1491597621294
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1742-5689"
+          },
+          {
+            "type": "electronic",
+            "value": "1742-5662"
+          }
+        ],
+        "issue": "-1",
+        "issued": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              1
+            ]
+          ]
+        },
+        "member": "175",
+        "page": "-1--1",
+        "prefix": "10.1098",
+        "published-online": {
+          "date-parts": [
+            [
+              2008,
+              6,
+              5
+            ]
+          ]
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2008,
+              1,
+              1
+            ]
+          ]
+        },
+        "publisher": "The Royal Society",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 1.0,
+        "short-container-title": [
+          "Journal of The Royal Society Interface"
+        ],
+        "source": "Crossref",
+        "subject": [
+          "Biotechnology",
+          "Biophysics",
+          "Biochemistry",
+          "Bioengineering",
+          "Biomaterials",
+          "Biomedical Engineering"
+        ],
+        "title": [
+          "Lab-on-a-chip technologies for proteomic analysis from isolated cells"
+        ],
+        "type": "journal-article",
+        "volume": "-1"
+      }
+    ],
+    "items-per-page": 20,
+    "next-cursor": "AoJ+gq+JpdsCPwlodHRwOi8vZHguZG9pLm9yZy8xMC4xMDk4L3JzaWYuMjAwOC4wMTY5",
+    "query": {
+      "search-terms": null,
+      "start-index": 0
+    },
+    "total-results": 91079185
+  },
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "status": "ok"
+}
