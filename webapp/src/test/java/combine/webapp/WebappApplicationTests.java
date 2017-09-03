@@ -1,4 +1,4 @@
-package combine.plugin.crossref.webapp;
+package combine.webapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
