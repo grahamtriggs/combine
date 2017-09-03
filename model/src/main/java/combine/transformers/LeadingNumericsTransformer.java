@@ -1,5 +1,8 @@
 package combine.transformers;
 
+/**
+ * Extract leading numerics
+ */
 public class LeadingNumericsTransformer implements StringTransformer {
     @Override
     public String transform(String str) {

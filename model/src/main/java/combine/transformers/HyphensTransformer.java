@@ -3,6 +3,9 @@ package combine.transformers;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Handle inconsistent hyphenization of some words
+ */
 public class HyphensTransformer implements StringTransformer {
     private final Pattern pattern = Pattern.compile("((?<pre1>\\w+-),\\s*)*(?<pre2>\\w+-)(,?\\s*and\\s*)(?<pre3>\\w+-)(?<post>[\\w-]+)");
     @Override
