@@ -2,6 +2,9 @@ package combine.transformers;
 
 import java.text.Normalizer;
 
+/**
+ * Normalize unicode characters in a string
+ */
 public class UnicodeTransformer implements StringTransformer {
     @Override
     public String transform(String str) {

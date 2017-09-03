@@ -1,5 +1,8 @@
 package combine.transformers;
 
+/**
+ * Strip trailing elements from a string
+ */
 public class StripTrailingTransformer implements StringTransformer {
     @Override
     public String transform(String str) {

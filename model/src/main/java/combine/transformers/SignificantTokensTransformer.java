@@ -7,7 +7,11 @@ import java.util.List;
  * Convert a string into signficant tokens, then return a string formed from them
  */
 public class SignificantTokensTransformer implements StringTransformer {
-    private final String PREFIX_FLAG = "!!";
+    private final static String KEEP_FLAG = "!!";
+
+    private final static String TOKEN_SEPERATOR = "A";
+    private final static String MIDTOKEN_SEPERATOR = "S";
+    private final static String TRAILING_SEPERATOR = "Z";
 
     @Override
     public String transform(String str) {
@@ -306,7 +310,7 @@ public class SignificantTokensTransformer implements StringTransformer {
             if (word.length() < 3) {
                 // Check if it is an important word
                 if (keepShortWord(word)) {
-                    tokens.add(word);
+                    tokens.add(KEEP_FLAG + word);
                 }
 
                 // Finished processing
@@ -461,7 +465,7 @@ public class SignificantTokensTransformer implements StringTransformer {
         // If word starts with prefix
         if (word.startsWith(prefix)) {
             // Add token (with a flag to indicate it's a prefix)
-            tokens.add(PREFIX_FLAG + prefix);
+            tokens.add(KEEP_FLAG + prefix);
 
             // return true
             return true;
@@ -479,6 +483,8 @@ public class SignificantTokensTransformer implements StringTransformer {
     private void tokensToString(StringBuilder builder, List<String> tokens) {
         boolean includeEndOfToken;
         int minTokenSize;
+
+        // Decide on how large the tokens should be
         switch (tokens.size()) {
             case 3:
                 includeEndOfToken = true;
@@ -500,30 +506,45 @@ public class SignificantTokensTransformer implements StringTransformer {
                 minTokenSize = 2;
         }
 
+        // Go through all the tokens
         for (String token : tokens) {
+            // Format the token
             String formatted = formatToken(token, minTokenSize, includeEndOfToken);
+
+            // If we have a token, add it to the string
             if (formatted != null && !"".equals(formatted)) {
                 if (builder.length() > 0) {
-                    builder.append("|");
+                    builder.append(TOKEN_SEPERATOR);
                 }
                 builder.append(formatted);
             }
         }
     }
 
+    /**
+     * Format the token for output
+     *
+     * @param token Token to format
+     * @param minTokenSize Minimum token size required
+     * @param includeEndOfToken Flag to include the end of token
+     * @return The formatted token
+     */
     private String formatToken(String token, int minTokenSize, boolean includeEndOfToken) {
         StringBuilder builder = new StringBuilder();
         boolean vowel = false;
         boolean consonant = false;
 
-        if (token.startsWith(PREFIX_FLAG)) {
-            return token.substring(2);
+        // If the token is flagged to be kept, strip the flag but keep the token
+        if (token.startsWith(KEEP_FLAG)) {
+            return token.substring(KEEP_FLAG.length());
         }
 
+        // If the token is numeric, keep it
         if (Character.isDigit(token.charAt(0))) {
             builder.append(token);
         }
 
+        // For all words, find the minimum characters, including vowels and consonants
         int idx = 0;
         while (idx < token.length() && (!vowel || !consonant || idx < minTokenSize)) {
             switch(token.charAt(idx)) {
@@ -543,10 +564,12 @@ public class SignificantTokensTransformer implements StringTransformer {
             idx++;
         }
 
+        // Add start of buffer to the token
         if (idx < token.length()) {
             builder.append(token.substring(0, idx));
         }
 
+        // If we are keeping the end of the token, do the above, backwards
         if (includeEndOfToken) {
             vowel = false;
             consonant = false;
@@ -568,19 +591,28 @@ public class SignificantTokensTransformer implements StringTransformer {
             }
 
             if (idx > -1) {
-                builder.append(".");
+                builder.append(MIDTOKEN_SEPERATOR);
                 builder.append(token.substring(idx));
             }
         }
 
+        // Return the retained token
         return builder.toString();
     }
 
-    private final String TRAILING_SEPERATOR = "_";
+    /**
+     * Add the trailing numeric to the string
+     *
+     * @param builder
+     * @param str
+     */
     private void addTrailingNumeric(StringBuilder builder, String str) {
+        // Work backwards from the end of the string
         int idx = str.length() - 1;
         while (idx > -1) {
+            // If we find a number
             if (Character.isDigit(str.charAt(idx))) {
+                // Keep going back to the first non-number
                 int endIdx = idx + 1;
                 idx--;
                 while (idx > -1 && Character.isDigit(str.charAt(idx))) {
@@ -615,14 +647,15 @@ public class SignificantTokensTransformer implements StringTransformer {
                     return;
                 }
             } else {
+                // Check for a roman numeral
                 char ch = str.charAt(idx);
-                if (ch == 'i' || ch == 'v' || ch == 'x' || ch == 'l' || ch == 'm') {
+                if (ch == 'i' || ch == 'v' || ch == 'x' || ch == 'l' || ch == 'd' || ch == 'm') {
                     int endIdx = idx + 1;
                     idx--;
 
                     while (idx > -1) {
                         ch = str.charAt(idx);
-                        if (ch == 'i' || ch == 'v' || ch == 'x' || ch == 'l' || ch == 'm') {
+                        if (ch == 'i' || ch == 'v' || ch == 'x' || ch == 'l' || ch == 'd' || ch == 'm') {
                             idx--;
                         } else {
                             break;
@@ -652,6 +685,12 @@ public class SignificantTokensTransformer implements StringTransformer {
         }
     }
 
+    /**
+     * Convert a roman numeral to decimal
+     *
+     * @param roman Roman numeral
+     * @return integer value
+     */
     private int convertRomanNumeral(String roman) {
         int value = 0;
         int lastAddition = 0;
@@ -701,6 +740,15 @@ public class SignificantTokensTransformer implements StringTransformer {
                     else {
                         value += 100;
                         lastAddition = 100;
+                    }
+                    break;
+                case 'd':
+                    if(lastAddition > 500) {
+                        value -= 500;
+                    }
+                    else {
+                        value += 500;
+                        lastAddition = 500;
                     }
                     break;
                 case 'm':
