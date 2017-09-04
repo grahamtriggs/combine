@@ -9,10 +9,6 @@ import java.util.List;
 public class SignificantTokensTransformer implements StringTransformer {
     private final static String KEEP_FLAG = "!!";
 
-    private final static String TOKEN_SEPERATOR = "A";
-    private final static String MIDTOKEN_SEPERATOR = "S";
-    private final static String TRAILING_SEPERATOR = "Z";
-
     @Override
     public String transform(String str) {
         List<String> tokens = new ArrayList<String>();
@@ -38,11 +34,11 @@ public class SignificantTokensTransformer implements StringTransformer {
             }
         }
 
-        StringBuilder builder = new StringBuilder();
-        tokensToString(builder, tokens);
-        addTrailingNumeric(builder, str);
+        TokenEncoder encoder = new TokenEncoder();
+        tokensToString(encoder, tokens);
+        addTrailingNumeric(encoder, str);
 
-        return builder.reverse().toString();
+        return encoder.toString();
     }
 
     /**
@@ -480,7 +476,7 @@ public class SignificantTokensTransformer implements StringTransformer {
      *
      * @param tokens Tokens to process
      */
-    private void tokensToString(StringBuilder builder, List<String> tokens) {
+    private void tokensToString(TokenEncoder encoder, List<String> tokens) {
         boolean includeEndOfToken;
         int minTokenSize;
 
@@ -513,10 +509,10 @@ public class SignificantTokensTransformer implements StringTransformer {
 
             // If we have a token, add it to the string
             if (formatted != null && !"".equals(formatted)) {
-                if (builder.length() > 0) {
-                    builder.append(TOKEN_SEPERATOR);
+                if (encoder.length() > 0) {
+                    encoder.appendSeperator();
                 }
-                builder.append(formatted);
+                encoder.append(formatted);
             }
         }
     }
@@ -591,7 +587,9 @@ public class SignificantTokensTransformer implements StringTransformer {
             }
 
             if (idx > -1) {
-                builder.append(MIDTOKEN_SEPERATOR);
+                if (builder.length() > 0) {
+                    builder.append("M");
+                }
                 builder.append(token.substring(idx));
             }
         }
@@ -603,10 +601,10 @@ public class SignificantTokensTransformer implements StringTransformer {
     /**
      * Add the trailing numeric to the string
      *
-     * @param builder
+     * @param encoder
      * @param str
      */
-    private void addTrailingNumeric(StringBuilder builder, String str) {
+    private void addTrailingNumeric(TokenEncoder encoder, String str) {
         // Work backwards from the end of the string
         int idx = str.length() - 1;
         while (idx > -1) {
@@ -626,11 +624,11 @@ public class SignificantTokensTransformer implements StringTransformer {
                                 Character.isDigit(str.charAt(idx - 2)) &&
                                 Character.isDigit(str.charAt(idx - 3)) &&
                                 Character.isDigit(str.charAt(idx - 4))) {
-                            builder.append(TRAILING_SEPERATOR).append(str.substring(idx - 4, idx - 2));
+                            encoder.appendTrailingSeperator().append(str.substring(idx - 4, idx - 2));
                             if (endIdx < str.length()) {
-                                builder.append(str.substring(idx + 1, endIdx));
+                                encoder.append(str.substring(idx + 1, endIdx));
                             } else {
-                                builder.append(str.substring(idx + 1));
+                                encoder.append(str.substring(idx + 1));
                             }
                             return;
                         }
@@ -638,11 +636,11 @@ public class SignificantTokensTransformer implements StringTransformer {
                 }
 
                 if (idx > -1 && !Character.isLetter(str.charAt(idx))) {
-                    builder.append(TRAILING_SEPERATOR);
+                    encoder.appendTrailingSeperator();
                     if (endIdx < str.length()) {
-                        builder.append(str.substring(idx + 1, endIdx));
+                        encoder.append(str.substring(idx + 1, endIdx));
                     } else {
-                        builder.append(str.substring(idx + 1));
+                        encoder.append(str.substring(idx + 1));
                     }
                     return;
                 }
@@ -671,7 +669,7 @@ public class SignificantTokensTransformer implements StringTransformer {
                         }
                         int value = convertRomanNumeral(roman);
                         if (value > 0) {
-                            builder.append(TRAILING_SEPERATOR).append(value);
+                            encoder.appendTrailingSeperator().append(value);
                         }
                     }
 
@@ -766,6 +764,68 @@ public class SignificantTokensTransformer implements StringTransformer {
         }
 
         return value;
+    }
+
+    public static class TokenEncoder {
+        private final static String TOKEN_SEPERATOR = "S";
+        private final static String TRAILING_SEPERATOR = "Z";
+
+        private final static char[] replacementChars = new char[Character.MAX_VALUE];
+
+        static {
+            char replacement = 'z';
+            for (char ch = 'a'; ch <= 'z'; ch++) {
+                replacementChars[ch] = replacement--;
+            }
+
+            replacement = 'z';
+            for (char ch = 'A'; ch <= 'Z'; ch++) {
+                replacementChars[ch] = replacement--;
+            }
+
+            replacementChars['0'] = 'A';
+            replacementChars['1'] = 'B';
+            replacementChars['2'] = 'C';
+            replacementChars['3'] = 'D';
+            replacementChars['4'] = 'E';
+            replacementChars['5'] = 'F';
+            replacementChars['6'] = 'G';
+            replacementChars['7'] = 'H';
+            replacementChars['8'] = 'I';
+            replacementChars['9'] = 'J';
+        }
+
+        private StringBuilder encoding = new StringBuilder();
+
+        public TokenEncoder appendSeperator() {
+            encoding.append(TOKEN_SEPERATOR);
+            return this;
+        }
+
+        public TokenEncoder appendTrailingSeperator() {
+            encoding.append(TRAILING_SEPERATOR);
+            return this;
+        }
+
+        public TokenEncoder append(String str) {
+            for (char ch : str.toCharArray()) {
+                encoding.append(replacementChars[ch]);
+            }
+
+            return this;
+        }
+
+        public TokenEncoder append(int value) {
+            return append(Integer.toString(value));
+        }
+
+        public String toString() {
+            return encoding.toString();
+        }
+
+        public int length() {
+            return encoding.length();
+        }
     }
 }
 
