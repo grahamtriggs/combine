@@ -1,0 +1,131 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "11711242"
+    ],
+    "11711242": {
+      "uid": "11711242",
+      "pubdate": "2001 Sep-Oct",
+      "epubdate": "",
+      "source": "Neurotoxicol Teratol",
+      "authors": [
+        {
+          "name": "Eyler FD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Behnke M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garvan CW",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Woods NS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wobie K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Conlon M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Conlon M",
+      "title": "Newborn evaluations of toxicity and withdrawal related to prenatal cocaine exposure.",
+      "sorttitle": "newborn evaluations of toxicity and withdrawal related to prenatal cocaine exposure",
+      "volume": "23",
+      "issue": "5",
+      "pages": "399-411",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8709538",
+      "issn": "0892-0362",
+      "essn": "1872-9738",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "11711242"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0892-0362(01)00166-0"
+        },
+        {
+          "idtype": "rid",
+          "idtypen": 8,
+          "value": "11711242"
+        },
+        {
+          "idtype": "eid",
+          "idtypen": 8,
+          "value": "11711242"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2001/11/17 10:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2002/02/02 10:01"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2001/11/17 10:00"
+        }
+      ],
+      "references": [
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 4,
+      "fulljournalname": "Neurotoxicology and teratology",
+      "elocationid": "",
+      "doctype": "citation",
+      "srccontriblist": [
+      ],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [
+      ],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2001/09/01 00:00",
+      "sortfirstauthor": "Eyler FD",
+      "vernaculartitle": ""
+    }
+  }
+}
+
